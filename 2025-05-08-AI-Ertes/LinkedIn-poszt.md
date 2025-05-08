@@ -36,7 +36,7 @@ AI-t tekintve sajnos az ember előtt jelenleg csak rossz és rosszabb lehetősé
 (b) **vagy elképesztő sebesség**gel szárnyal az AI, fejlődik a transzformerek révén, ám nincs hozzá grounding (jelenleg)  
 Talán nem véletlen, hogy a Google Deepmind egyre sikeresebben társítja őket matekot tekintve.  
 
-(3) Egy villanyszerelő érti tudja a villany funkcióit, veszélyeit, ki van képezve munkavédelmileg (engedélykötelesség kontextusában) hogyan nyúljon a villanyhoz. A nagy kérdés, hogy az AI a művelői számára belepréselhető-e egy hasonló **védelmi, megelőzési keretrendszerbe**, egyáltalán ez elvárás-e és ha igen mennyiben, hogyan.   
+(3) Egy villanyszerelő érti, tudja a villany funkcióit, veszélyeit, ki van képezve munkavédelmileg (engedélykötelesség kontextusában) hogyan nyúljon a villanyhoz. A nagy kérdés, hogy az AI a művelői számára belepréselhető-e egy hasonló **védelmi, megelőzési keretrendszerbe**, egyáltalán ez elvárás-e és ha igen mennyiben, hogyan.   
 
 Azaz mi van azokkal, akik "értenek" az AI-hoz? Magyarán bárki "értő" bármit, gondol, tesz AI ügyben, akkor **kiszámíthatja-e** hatását, bármiféle megkövetelhető mérlegeléshez? Nekem úgy tűnik jelenleg, hogy a villanyszerelés túl egyszerű, míg az AI túl komplex, így nem nagyon lehet védelmi adaptálódásról beszélni jelenleg.  
 
