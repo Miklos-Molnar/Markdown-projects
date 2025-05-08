@@ -34,7 +34,7 @@ Hétköznapi nyelven szólva úgy merül fel a kérdés, hogy matek érettségin
 AI-t tekintve sajnos az ember előtt jelenleg csak rossz és rosszabb lehetőségek állnak:  
 (a) **vagy Gofai** (szabályalapú) mesterséges intelligencia van, ami grounding-os, ám gyenge performanciájú  
 (b) **vagy elképesztő sebesség**gel szárnyal az AI, fejlődik a transzformerek révén, ám nincs hozzá grounding (jelenleg)  
-Talán nem véletlen, hogy a Google Deepmind egyre sikeresen társítja őket matekot tekintve.  
+Talán nem véletlen, hogy a Google Deepmind egyre sikeresebben társítja őket matekot tekintve.  
 
 (3) Egy villanyszerelő érti tudja a villany funkcióit, veszélyeit, ki van képezve munkavédelmileg (engedélykötelesség kontextusában) hogyan nyúljon a villanyhoz. A nagy kérdés, hogy az AI a művelői számára belepréselhető-e egy hasonló **védelmi, megelőzési keretrendszerbe**, egyáltalán ez elvárás-e és ha igen mennyiben, hogyan.   
 
