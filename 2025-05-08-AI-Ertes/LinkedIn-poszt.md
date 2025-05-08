@@ -1,4 +1,4 @@
-**Mi az, hogy "érteni" az AI-hoz, ezt mégis hogyan kell. Ki "ért" hozzá?**
+**Mi az, hogy "érteni" az AI-hoz, ezt mégis hogyan kell? Ki "ért" hozzá?**
 
 Folytatnám a Vincent-blog posztjának feldolgozását, maradva a Github-on publikált markdown fileformátumú posztoknál, továbbra is leküzdendő a LinkedIn méretbeli korlátait.
 
