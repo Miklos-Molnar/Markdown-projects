@@ -56,7 +56,8 @@ Azt tekintem "értő"-nek, aki táguló értelmezési keretben fejlődve, képes
 * fel tud tenni kérdéseket,  
 * utána tud menni válaszoknak relatíve kis erőforrásigénnyel, sztoikus értelemben   kellően megnyugtatóan,  
 * majd állást tud foglalni,  
-* és vállalja állásfoglalásának megvédését is.  
+* és vállalja állásfoglalásának megvédését is.
+
 Magyarán saját keretrendszere elég rugalmas ahhoz, hogy funkcionálisan működően, érdemben interaktáljon másokkal.
 
 És ez mire is futhat ki a gyakorlatban? Aki az AI meglévő funkcionalitását képes optimálisan használni, vagy egyenesen bővíteni saját értékteremtési láncában, á lá mint egy szimpla oop-s osztálykönyvtárat a programozásban. Saját magát ÉS embertársi környezetét inspirálja, segíti, kezdve a verbalitással.
