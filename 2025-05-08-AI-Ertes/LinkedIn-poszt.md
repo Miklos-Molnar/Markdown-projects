@@ -54,7 +54,7 @@ Számomra elsősorban ez viszonyulási kultúra kérdése, nem tudáshalmazé, a
 
 Azt tekintem "értő"-nek, aki táguló értelmezési keretben fejlődve, képes követni a történéseket, együttlélegezni velük, a korlátok szem előtt tartásával.   Kompetenciahatáron, digitális készségek határain belül  
 * fel tud tenni **kérdés**eket,  
-* utána tud menni **válaszok**nak relatíve kis erőforrásigénnyel, sztoikus értelemben   kellően megnyugtatóan,  
+* utána tud menni **válaszok**nak relatíve kis erőforrásigénnyel, sztoikus filozófiai értelemben   kellően megnyugtatóan,  
 * majd **állást tud foglalni**,  
 * és vállalja állásfoglalásának **megvédés**ét is.
 
