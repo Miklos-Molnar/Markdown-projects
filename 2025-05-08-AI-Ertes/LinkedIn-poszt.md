@@ -53,14 +53,14 @@ Na és akkor **harmadik körben** próbáljuk meg megválaszolni a címbeli kér
 Számomra elsősorban ez viszonyulási kultúra kérdése, nem tudáshalmazé, az információk exponenciális robbanása közepette. Magyarán az AI nem tárgy, eszköz, hanem **közeg**.
 
 Azt tekintem "értő"-nek, aki táguló értelmezési keretben fejlődve, képes követni a történéseket, együttlélegezni velük, a korlátok szem előtt tartásával.   Kompetenciahatáron, digitális készségek határain belül  
-* fel tud tenni kérdéseket,  
-* utána tud menni válaszoknak relatíve kis erőforrásigénnyel, sztoikus értelemben   kellően megnyugtatóan,  
-* majd állást tud foglalni,  
-* és vállalja állásfoglalásának megvédését is.
+* fel tud tenni **kérdés**eket,  
+* utána tud menni **válaszok**nak relatíve kis erőforrásigénnyel, sztoikus értelemben   kellően megnyugtatóan,  
+* majd **állást tud foglalni**,  
+* és vállalja állásfoglalásának **megvédés**ét is.
 
-Magyarán saját keretrendszere elég rugalmas ahhoz, hogy funkcionálisan működően, érdemben interaktáljon másokkal.
+Magyarán saját keretrendszere elég rugalmas ahhoz, hogy **funkcionálisan működően, érdemben interaktáljon** másokkal.
 
-És ez mire is futhat ki a gyakorlatban? Aki az AI meglévő funkcionalitását képes optimálisan használni, vagy egyenesen bővíteni saját értékteremtési láncában, á lá mint egy szimpla oop-s osztálykönyvtárat a programozásban. Saját magát ÉS embertársi környezetét inspirálja, segíti, kezdve a verbalitással.
+És ez mire is futhat ki a gyakorlatban? Aki az AI meglévő funkcionalitását képes optimálisan használni, vagy egyenesen bővíteni saját **értékteremtési lánc**ában, á lá mint egy szimpla oop-s osztálykönyvtárat a programozásban. Saját magát ÉS embertársi környezetét inspirálja, segíti, kezdve a verbalitással.
 
-Mi lehetne egy záró konkluzió? Nem attól "ért" valaki az AI-hoz, hogy "mérhetően" tud róla ismereteket, hanem attól, hogy épít magának egy olyan méltányolható keretrendszert, amiben kreatívan és felelősen viszonyulhat hozzá.
+Mi lehetne egy záró konkluzió? Nem attól "ért" valaki az AI-hoz, hogy "mérhetően" tud róla ismereteket, hanem attól, hogy épít magának egy olyan méltányolható keretrendszert, amiben **kreatívan és felelősen** viszonyulhat hozzá.
 
