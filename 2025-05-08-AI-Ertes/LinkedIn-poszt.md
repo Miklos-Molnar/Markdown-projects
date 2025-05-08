@@ -5,7 +5,7 @@ Folytatnám a Vincent-blog posztjának feldolgozását, maradva a Github-on publ
 **Vincent-blog: AI avagy a hülyék. Az önkritikus posztok sorozatból**  
 https://www.orulunkvincent.hu/ai-avagy-a-hulyek-az-onkritikus-posztok-sorozatbol/
 
-Top-down és bottom-up iteráció lehetőségét szem előtt tartva **távoli analógiával** kezdem (azaz mindkét irány szem előtt tartva fókuszálok a két témában): az emberiség mintha **"tűzzel játszana"**, amikor AI-zik". Vajon mennyiben áll az analógia, mai fejünkkel?  
+Top-down és bottom-up iteráció lehetőségét szem előtt tartva **távoli analógiával** kezdem (azaz mindkét irányt szem előtt tartva fókuszálok a két témában): az emberiség mintha **"tűzzel játszana"**, amikor AI-zik". Vajon mennyiben áll az analógia, mai fejünkkel?  
 
 Érveim; az őseink előtt is nyilvánvaló lett  
 - ...a tűz **értékei**, található benne használható funkció (pl.: melegedés, ételmelegítés, stb.)  
