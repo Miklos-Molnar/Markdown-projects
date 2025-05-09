@@ -66,6 +66,7 @@ Az alábbiak az én értelmezési kereteim:
 * Valóság talaján áll, de **nem ragad bele a jelenbe**. Nem torzítja el sem a remény, sem a félelem, mert az igazság és a megértés iránti vágy felülírja mindkettőt.  
 * A **jövő az nem fátum**, hanem alakítható: valóság talaján állva mégis tud inspirálódni a jövőt is fókuszba helyezve.  
 * Egyensúlyozza a **realitásérzék**et és a konstruktív **jövőérzékenység**et – pontosan az a hozzáállás, amit sok tudós és felelősen gondolkodó ember tisztel.  
+
 (4) Tovább közeledve a gyakorlati konkrétumok szintjéhez, az alábbi diskurzusbeli **attitüd-jellemzők**et azonosítanám, az intelligens belegondoláshoz:
 
 (4.1) **LÉNYEGLÁTÁS** 
