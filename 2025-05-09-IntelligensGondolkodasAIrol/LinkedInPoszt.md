@@ -1,4 +1,8 @@
-Vajon miképpen gondolkodhat, szólhat intelligensen az AI-ről egy átlagos értelmiségi, amennyiben erre explicit szándéka lenne?
+**Vajon miképpen gondolkodhat, szólhat intelligensen az AI-ről egy átlagos értelmiségi, amennyiben erre explicit szándéka lenne?**
+
+Folytatnám a Vincent-blog posztjának feldolgozását:
+**Vincent-blog: AI avagy a hülyék. Az önkritikus posztok sorozatból**  
+https://www.orulunkvincent.hu/ai-avagy-a-hulyek-az-onkritikus-posztok-sorozatbol/
 
 (1) **Alapvető módszertani nehézségei** problémái vannak az értelmiségi attitűd tartalommal való megtöltésének, ha nem csupán saját egyéni szigetszerű véleményt akarna az ember megfogalmazni, pláne laza locsogás formájában. Hanem például elvárásnak, célnak tekintjük a minél szélesebb, vastagabb, minél nagyobb konszenzussal támogatott közös alapzatot, amin a szóbanforgó - vágyott - intelligens diskurzus történne. Ezen potenciálisan máig  létező nehézségek:  
 * Van **black box effect** (mi és hogyan történik a transzformer-architektúra mélytanulásos neurális hálójában, a működése során)  
