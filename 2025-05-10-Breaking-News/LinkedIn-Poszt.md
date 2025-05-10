@@ -31,7 +31,7 @@ Itt egy 15 percnyi magyarázó YT-videó a cikkhez:
   * És ez még csak az **első implementálás**i lépés volt (megmért és kimutatott fejlődéssel).  
   * És akkor még nem beszéltünk az **NVidia** tervezett **Rubin architektúrájú GPU**-jairól.  
 
-(+1) Itt **jegyzem meg**, hogy éles szakmai vitáknak lehetünk szemtanui: Google Deepmind-nál (AlphaZero, MuZero bölcsőnél), az RF-nek nem nagyon vannak barátai. Míg a kínaiak látnivalóan nagyon nyomják az RL-t, akkora potenciált érzékelnek benne. Nyilván nem ennyire fekete-fehér a dolog, de a verseny ezen a téren is nagyon jelentős (az én szememben mindenképpen).
+(+1) Itt **jegyzem meg**, hogy éles szakmai vitáknak lehetünk szemtanui: Google Deepmind-nál (AlphaZero, MuZero bölcsőnél), az RL-nek nem nagyon vannak barátai. Míg a kínaiak látnivalóan nagyon nyomják az RL-t, akkora potenciált érzékelnek benne. Nyilván nem ennyire fekete-fehér a dolog, de a verseny ezen a téren is nagyon jelentős (az én szememben mindenképpen).
 
 A cikk (szikár, tömör, elevator pitch) konklúziója számomra:  
 (a) **Kár scaling wallról beszélni még szöveges adatoknál is**, amit pár hónapra előre vár Sam Altman (OpenAI).  
