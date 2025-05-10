@@ -33,9 +33,10 @@ Itt egy 15 percnyi magyarázó YT-videó a cikkhez:
 
 (+1) Itt **jegyzem meg**, hogy éles szakmai vitáknak lehetünk szemtanui: Google Deepmind-nál (AlphaZero, MuZero bölcsőnél), az RF-nek nem nagyon vannak barátai. Míg a kínaiak látnivalóan nagyon nyomják az RL-t, akkora potenciált érzékelnek benne. Nyilván nem ennyire fekete-fehér a dolog, de a verseny ezen a téren is nagyon jelentős (az én szememben mindenképpen).
 
-A cikk (szikár, tömör, elevator pitch) konklúziója számomra:
-(a) **Kár scaling wallról beszélni még szöveges adatoknál is**, amit pár hónapra előre vár Sam Altman (OpenAI).
-(b) Szintetikus adatok, Önjutalmazó tanulás, Verfikálható eremények **hármasa kézzelfogható szimbózisba hozhatók**.
-(c) Mindháromféle érvelési  (**deduktív, induktív és abduktív**) képesség integrálhatóvá tehető.
-(d) **Invariáns a modell-méret**, amire lehetne mindezt alkalmazni. Lelkiszemeimmel látom a matematikust, a mobiltelefonján lévő mondjuk Microsoft Phi-4-gyel, és konferenciára utazás közben dolgozik a Riemann-sejtésen.
-(e) Kiemelkedő lehet tehát a teljesítmény külső adatok nélkül is. **Na most elképzelhető milyen lesz, ha be is vonunk további külső adatokat is**.
+A cikk (szikár, tömör, elevator pitch) konklúziója számomra:  
+(a) **Kár scaling wallról beszélni még szöveges adatoknál is**, amit pár hónapra előre vár Sam Altman (OpenAI).  
+(b) Szintetikus adatok, Önjutalmazó tanulás, Verfikálható eremények **hármasa kézzelfogható szimbózisba hozhatók**.  
+(c) Mindháromféle érvelési  (**deduktív, induktív és abduktív**) képesség integrálhatóvá tehető.  
+(d) **Invariáns a modell-méret**, amire lehetne mindezt alkalmazni. Lelkiszemeimmel látom a matematikust, a mobiltelefonján lévő mondjuk Microsoft Phi-4-gyel, és konferenciára utazás közben dolgozik a Riemann-sejtésen.  
+(e) Kiemelkedő lehet tehát a teljesítmény külső adatok nélkül is. **Na most elképzelhető milyen lesz, ha be is vonunk további külső adatokat is**.  
+
