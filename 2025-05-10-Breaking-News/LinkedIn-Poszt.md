@@ -20,7 +20,7 @@ Itt egy 15 percnyi magyarázó YT-videó a cikkhez:
 
 (2) Mindehhez van neki, vagy tervez fejben és/vagy brainstormingban egy megoldási koncepciót, mondjuk **particionálással (dekomponálással)**. Lebontva nagyobb, majd kisebb lépésekre, tételekre, lemmákra, propoziciókra, egzaktan tárgyalható összefüggésekre, stb., mondjuk most így "atomi" szintig. Amik egyébként feltételezhetően - az AI számára is - még így is kezelhetetlenül komplexek. Egy ilyen matematikus nemcsak hallott már az AI-ról, de keresi is az AI "barátságát" az ilyen matek-melóhoz. Például Terence Tao, 230-as IQ-val. Néhányat saját kézben tart, másokat delegál kollégáinak, beosztottainak, privát módon, vagy publikus fórumon keresztül.
 
-(3) A csapat tagjai beküldik az "atomi" problémát valamilyen **LLM-es Deep Reasearch** csővezetékbe. Ám eddig jó eséllyel 90+%-ban az LLM fejrefog állni, AI-s megoldhatatlanság okán. Eddig ugye ezt eddig is tudta az AI. 🙂
+(3) A csapat tagjai beküldik az "atomi" problémát valamilyen **LLM-es Deep Reasearch** csővezetékbe. Ám eddig jó eséllyel 90+%-ban az LLM fejre fog állni, AI-s megoldhatatlanság okán. Ezt eddig is tudta az AI, ugye. 🙂
 
 (4) Jön a **friss kínai ígérvény**: a betáplált problémához, egy AI-agent(ek), ami(k) kigenerál(nak) **szintetikus training adatok**at pluszba a korábbi meglévő adatok mellé, majd ezek után az így kibővített - inkrementális addicionális trainingbe bevont - adatokon próbálja folytatni a Deep Research-öt (pontossági, tanulhatósági, stb. **jutalmazási rendszer**ben, a **RL=reinforcement learning keretei között**).
 
@@ -30,6 +30,7 @@ Itt egy 15 percnyi magyarázó YT-videó a cikkhez:
   * miközben a DeepSeek 671 milliárd paraméteres legnagyobb modellje is futhat **home pc**-n, 220V-on, részben éjszakai tarifával.  
   * És ez még csak az **első implementálás**i lépés volt (megmért és kimutatott fejlődéssel).  
   * És akkor még nem beszéltünk az **NVidia** tervezett **Rubin architektúrájú GPU**-jairól.  
+
 (+1) Itt **jegyzem meg**, hogy éles szakmai vitáknak lehetünk szemtanui: Google Deepmind-nál (AlphaZero, MuZero bölcsőnél), az RF-nek nem nagyon vannak barátai. Míg a kínaiak látnivalóan nagyon nyomják az RL-t, akkora potenciált érzékelnek benne. Nyilván nem ennyire fekete-fehér a dolog, de a verseny ezen a téren is nagyon jelentős (az én szememben mindenképpen).
 
 A cikk (szikár, tömör, elevator pitch) konklúziója számomra:
