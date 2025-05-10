@@ -6,13 +6,13 @@ Egy kínai nemzetközi kutatócsoport most mutatta be azt, amit sokan évekig le
 
 Minimum 1 éve tudható, diskurzus tárgyát képező volt, hogy el fog jönni a nap, és el is jött. Jóval hamarabb, mint gondoltam volna. Érzékelhetően, negállíthatatlan a fejlődés. Mégha csak béta is, mégha csak nüansznyi is lehet a performancia-javulás, mégha csak gyerekcipőben lehet is az egész, de legalább '**first draft implemented**'. Ráadásul mégcsak nem is human in-the-loop, hanem egyenesen **human on-the-loop** irányba mozdulva. Az ész megáll, komolyan. Rögzítsük: 2025.május7-én. Szegedy Krisztián (xAi) 2026-os céldátuma előtt bő másfél évvel.
 
-11 kínai cikke: Tsinghua University, Beijing Institute for General Artificial Intelligence & Pennsylvania State University egyetemekről
-**ABSOLUTE ZERO: REINFORCED SELF-PLAY REASONING WITH ZERO DATA**
-https://arxiv.org/html/2505.03335v2
+11 kínai cikke: Tsinghua University, Beijing Institute for General Artificial Intelligence & Pennsylvania State University egyetemekről  
+  **ABSOLUTE ZERO: REINFORCED SELF-PLAY REASONING WITH ZERO DATA**
+  https://arxiv.org/html/2505.03335v2
 
-Itt egy 15 percnyi magyarázó YT-videó a cikkhez:
-**New „Absolute Zero” Model Learns with NO DATA**
-https://www.youtube.com/watch?v=CqdqZNqljdI
+Itt egy 15 percnyi magyarázó YT-videó a cikkhez:  
+  **New „Absolute Zero” Model Learns with NO DATA**
+  https://www.youtube.com/watch?v=CqdqZNqljdI
 
 TL;DR - Na és miről lenne szó minél kevesebb ám minél olvasmányosabb betűvel, sietőseknek?
 
