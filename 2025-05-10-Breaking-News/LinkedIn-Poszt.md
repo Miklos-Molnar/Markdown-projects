@@ -37,6 +37,6 @@ A cikk (szikár, tömör, elevator pitch) konklúziója számomra:
 (a) **Kár scaling wallról beszélni még szöveges adatoknál is**, amit pár hónapra előre vár Sam Altman (OpenAI).  
 (b) Szintetikus adatok, Önjutalmazó tanulás, Verfikálható eremények **hármasa kézzelfogható szimbózisba hozhatók**.  
 (c) Mindháromféle érvelési  (**deduktív, induktív és abduktív**) képesség integrálhatóvá tehető.  
-(d) **Invariáns a modell-méret**, amire lehetne mindezt alkalmazni. Lelkiszemeimmel látom a matematikust, a mobiltelefonján lévő mondjuk Microsoft Phi-4-gyel, és konferenciára utazás közben dolgozik a Riemann-sejtésen.  
+(d) **Invariáns a modell-méret**, amire lehetne mindezt alkalmazni. Lelki szemeimmel látom a matematikust, a mobiltelefonján lévő mondjuk Microsoft Phi-4-gyel, és konferenciára utazás közben dolgozik a Riemann-sejtésen.  
 (e) Kiemelkedő lehet tehát a teljesítmény külső adatok nélkül is. **Na most elképzelhető milyen lesz, ha be is vonunk további külső adatokat is**.  
 
