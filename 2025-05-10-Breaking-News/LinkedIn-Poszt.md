@@ -14,7 +14,7 @@ Itt egy 15 percnyi magyarázó YT-videó a cikkhez:
   **New „Absolute Zero” Model Learns with NO DATA**
   https://www.youtube.com/watch?v=CqdqZNqljdI
 
-TL;DR - Na és miről lenne szó minél kevesebb ám minél olvasmányosabb betűvel, sietőseknek?
+**TL;DR** - Na és miről lenne szó minél kevesebb ám minél olvasmányosabb betűvel, sietőseknek?
 
 (1) Tegyük fel van egy matematikus, aki **nyitott matematikai problémákat akar megoldani**. Szélső határon mondjuk egy Riemann-sejtést, az olyan jó demó-példa. 
 
