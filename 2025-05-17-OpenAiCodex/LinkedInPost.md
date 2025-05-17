@@ -1,4 +1,4 @@
-Szoftverfejlesztőként különösen felkaptam a fejem az OpenAI új Codex-bejelentésére.
+Felkaptam a fejem az OpenAI, pár órás, új Codex-bejelentésére.
 Több AI-ügynök dolgozik ugyanazon a kódbázison? Git-merge konfliktusok nélkül? Ez elsőre meglepőnek tűnhet.
 
 Amit a Codex koncepciójából leszűrök:
