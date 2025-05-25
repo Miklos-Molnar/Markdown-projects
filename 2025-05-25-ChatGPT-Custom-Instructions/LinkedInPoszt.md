@@ -1,6 +1,6 @@
 **Nem az AI szólt hozzám, hanem én magamhoz – Hogyan tesz próbára az optimális ChatGPT Custom Instructions keresése**
 
-**Prompt**: Készíts interjút velem úgy, mintha a New York Times újságírója lennél, akinek az a feladata, hogy segítsen a szakembereknek erőteljes egyéni utasításokat (custom instructions) írni a CHATGPT-hez. Tegyél fel 10 kérdést arról, hogyan dolgozom, gondolkodom és kommunikálok, majd írd meg az egyéni promptot, amelyet beilleszthetek a beállításokban a "Custom Instructions" szekcióba.
+**ChatGPT Prompt az internetről**: Készíts interjút velem úgy, mintha a New York Times újságírója lennél, akinek az a feladata, hogy segítsen a szakembereknek erőteljes egyéni utasításokat (custom instructions) írni a CHATGPT-hez. Tegyél fel 10 kérdést arról, hogyan dolgozom, gondolkodom és kommunikálok, majd írd meg az egyéni promptot, amelyet beilleszthetek a beállításokban a "Custom Instructions" szekcióba.
 
 *Ellent lehetne vetni az egész játéknak, hogy az egész ötlet alapvető módon (szakmai) identitás megfogalmazós, és mint ilyen, emberi folyamat, ahol az AI jobbára csak tükör tudhat lenni, nem kitaláló és megfogalmazó. Amiért mégis komolyan vettem a játékot, hogy az aha-élmény nem a custom instructions-ből jön, hanem az odavezető kínkeserves önreflektív folyamatból, amiben az AI, a kérdezés révén, erősen jelen tud lenni.*
 
