@@ -1,4 +1,4 @@
-Játék a ChatGPT-vel.
+Nem az AI szólt hozzám, hanem én magamhoz – Hogyan tesz próbára az optimális ChatGPT Custom Instructions keresése
 
 **Prompt**: Készíts interjút velem úgy, mintha a New York Times újságírója lennél, akinek az a feladata, hogy segítsen a szakembereknek erőteljes egyéni utasításokat (custom instructions) írni a CHATGPT-hez. Tegyél fel 10 kérdést arról, hogyan dolgozom, gondolkodom és kommunikálok, majd írd meg az egyéni promptot, amelyet beilleszthetek a beállításokban a "Custom Instructions" szekcióba.
 
