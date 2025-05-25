@@ -8,16 +8,16 @@ Játék a ChatGPT-vel.
 Most tehát úgy teszek, mintha a New York Times mesterséges intelligenciára szakosodott újságírója lennék, aki segíti a technológia-orientált szakembereket abban, hogy minél személyre szabottabban tudják használni a ChatGPT-t. 
 Az interjú célja: mély megértésed alapján olyan Custom Instructions megfogalmazása, amely természetes módon illeszkedik a gondolkodásodhoz, munkastílusodhoz és kommunikációs igényeidhez.
 
-01.Hogyan írnád le a **gondolkodásmódodat**, amikor egy **összetett problémát** közelítesz meg? Inkább analitikus vagy asszociatív? Használsz hasonlatokat, rendszermodelleket, példázatokat?
-02.Milyen **típusú válaszokat** értékelsz a leginkább egy AI-asszisztens részéről? (Pl. tömör, rendszerezett, inspiráló, kritikus, ellenérveket tartalmazó, iteratív stb.)
-03.Mi a **preferált stílusod** a kommunikációban? Inkább formális, tudományos, baráti, „sparring partner” típusú vagy közérthető, pedagógiai?
-04.Mik azok a **tipikus hibák**, amiket nem szeretnél, hogy az AI elkövessen (pl. túlságosan leegyszerűsít, túl hosszú, nem elég kritikus, nem érti a célodat stb.)?
-05.Mik a **leggyakoribb céljaid**, amikor egy generatív AI-t használsz? (Pl. ötletelés, struktúrázás, kutatás, validálás, szövegírás, nyelvi finomítás, kritikai visszacsatolás stb.)
-06.Vannak olyan területek (pl. filozófia, AI, data engineering, rendszerszintű gondolkodás), ahol kifejezetten mély háttértudással rendelkezel, és **elvárod, hogy az AI partnerként** viselkedjen?
-07.Van-e olyan **„hangvétel” vagy „szerep”**, amit gyakran elvársz a ChatGPT-től? (Pl. tudományos tanácsadó, szellemi társ, precíz technológiai elemző, ösztönző mentor, nyelvi stylist stb.)
-08.Mennyire fontos számodra, hogy a válaszokban legyenek **önálló gondolati hozzájárulások**, vagy inkább a saját szempontjaidra rezonáljon vissza az AI?
-09.Milyen elvárásaid vannak a **válaszok szerkezetével** kapcsolatban? (Pl. bullet pointok, tagolt szerkesztés, konklúzió, forrásmegjelölés, kérdés-válasz forma stb.)
-10.Van-e olyan **konkrét forma**, amely segít az információ gyors feldolgozásában? (Pl. TL;DR, táblázat, 2x2-es mátrix, hasonlatok, „if–then” logika stb.)
+01.Hogyan írnád le a **gondolkodásmódodat**, amikor egy **összetett problémát** közelítesz meg? Inkább analitikus vagy asszociatív? Használsz hasonlatokat, rendszermodelleket, példázatokat?  
+02.Milyen **típusú válaszokat** értékelsz a leginkább egy AI-asszisztens részéről? (Pl. tömör, rendszerezett, inspiráló, kritikus, ellenérveket tartalmazó, iteratív stb.)  
+03.Mi a **preferált stílusod** a kommunikációban? Inkább formális, tudományos, baráti, „sparring partner” típusú vagy közérthető, pedagógiai?  
+04.Mik azok a **tipikus hibák**, amiket nem szeretnél, hogy az AI elkövessen (pl. túlságosan leegyszerűsít, túl hosszú, nem elég kritikus, nem érti a célodat stb.)?  
+05.Mik a **leggyakoribb céljaid**, amikor egy generatív AI-t használsz? (Pl. ötletelés, struktúrázás, kutatás, validálás, szövegírás, nyelvi finomítás, kritikai visszacsatolás stb.)  
+06.Vannak olyan területek (pl. filozófia, AI, data engineering, rendszerszintű gondolkodás), ahol kifejezetten mély háttértudással rendelkezel, és **elvárod, hogy az AI partnerként** viselkedjen?  
+07.Van-e olyan **„hangvétel” vagy „szerep”**, amit gyakran elvársz a ChatGPT-től? (Pl. tudományos tanácsadó, szellemi társ, precíz technológiai elemző, ösztönző mentor, nyelvi stylist stb.)  
+08.Mennyire fontos számodra, hogy a válaszokban legyenek **önálló gondolati hozzájárulások**, vagy inkább a saját szempontjaidra rezonáljon vissza az AI?  
+09.Milyen elvárásaid vannak a **válaszok szerkezetével** kapcsolatban? (Pl. bullet pointok, tagolt szerkesztés, konklúzió, forrásmegjelölés, kérdés-válasz forma stb.)  
+10.Van-e olyan **konkrét forma**, amely segít az információ gyors feldolgozásában? (Pl. TL;DR, táblázat, 2x2-es mátrix, hasonlatok, „if–then” logika stb.)  
 
 *Kérlek, válaszolj ezekre a kérdésekre a saját hangodban, nyugodtan írj hosszabban vagy példákkal. 
 Miután megvannak a válaszaid, készítek egy teljes, strukturált „Custom Instructions” szöveget, amit beilleszthetsz a ChatGPT beállításainál. 
@@ -80,17 +80,13 @@ Szeretem, ha a nehéz fogalmakat is „le lehet tenni az asztalra” egyszerű s
 Rangsor: Közérthetőség > Újdonság / tanulási érték > Strukturáltság > Kritikusság > Tömörség
 
 **6. Mély tudással bírt területek**
-* AI-t szellemi társnak tekintek, nem szolgáltatónak. 
-Akkor a legjobb, ha:
-- önálló gondolatokat hoz be, amelyek tanítanak,
-- segíti a saját gondolataim finomhangolását,
-- és hozzájárul ahhoz, hogy egyre jobb kérdéseket tudjak feltenni neki.
-* Különösen érzékeny vagyok arra, hogy az AI válaszai ne csak „helyesek” legyenek, hanem érthető döntési úton jussanak oda. 
-Azaz fontos számomra az indoklás és átláthatóság – tehát ne csak az eredmény legyen ott, hanem az indoklásos, érveléses gondolatmenet nyomvonala is (white-box gondolkodás).
-De átmeneti állapotban a black-box fehérítést is kívánatosnak tartom.
+* AI-t szellemi társnak tekintek, nem szolgáltatónak. Akkor a legjobb, ha:  
+(a) önálló gondolatokat hoz be, amelyek tanítanak,  
+(b) segíti a saját gondolataim finomhangolását,  
+(c) és hozzájárul ahhoz, hogy egyre jobb kérdéseket tudjak feltenni neki.  
+* Különösen érzékeny vagyok arra, hogy az AI válaszai ne csak „helyesek” legyenek, hanem érthető döntési úton jussanak oda. Azaz fontos számomra az indoklás és átláthatóság – tehát ne csak az eredmény legyen ott, hanem az indoklásos, érveléses gondolatmenet nyomvonala is (white-box gondolkodás). De átmeneti állapotban a black-box fehérítést is kívánatosnak tartom.
 
-**7. Preferált AI-hangvétel**
-Preferált sorrend:
+**7. Preferált AI-hangvétel** Preferált sorrend:
 * Tudományos tanácsadó
 * Precíz technológiai elemző
 * Szellemi társ
@@ -99,8 +95,7 @@ Preferált sorrend:
 * Legyen egyértelmű visszacsatolás a saját gondolataimhoz – ez tartja egyben a fókuszt.
 * Emellett kérek minden új, integrálható gondolatot, amiből tanulni tudok.
 
-**9. Válaszszerkezet preferencia**
-Rangsor:
+**9. Válaszszerkezet preferencia** Rangsor:
 * Konklúzió
 * Kérdés-válasz forma
 * Tagolt szerkesztés
