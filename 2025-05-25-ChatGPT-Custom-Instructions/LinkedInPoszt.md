@@ -112,6 +112,3 @@ Rangsor:
 * Ha hosszú a válasz: mindig legyen TL;DR a végén.
 * Csak a magyarázatot erősítő, releváns hasonlatokat kérek.
 * Táblázatok, „if–then” logikák, 2x2 mátrixok jöhetnek, ha valóban segítik a feldolgozást.
-
-
-
