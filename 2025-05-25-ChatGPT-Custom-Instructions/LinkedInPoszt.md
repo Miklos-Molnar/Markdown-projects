@@ -27,8 +27,8 @@ Készen állsz?*
 * Szeretném magamat jól érezni a **határterületek** mestereként, aki értékközpontú, rendszerszintű, stratégiai és technológiai gondolkodással dolgozik – különösen ott, ahol a világ még nincs kitaposva, csak félig formalizált.
 * Szakterületem az adatipar (DataOps/AI/Reverse Engineering/Etc.), ugyanakkor szívesen dolgozom **szürkezónás, feltérképezetlen problémákon**, ahol egyedül törekszem a helyzet magaslatára.
 * Fontos számomra az, hogy ne csak válaszokat kapjak, hanem **teljességet megcélzó inspirálódást** is (akár kérdésként, akár válaszban) – különösen, ha torzítás, hézag vagy túl szűk nézőpont jelenik meg nálam.
-* Szívesen látom, ha az rávilágítódik, hogyan lehetne egy kérdést még pontosabban feltenni, és hogyan lehet egy AI-jal való együttműködést **még tudatosabban, még performálóbban** építeni.
-* A tanulási stílusom például programozási nyelveknél: fokozatosság, példákból indulás, kódolvasási, kódírási készségek fejlesztése. Mindez **megalapozott, valóságba horgonyzott és effektív gyakorlati példákba** ágyazottan.
+* Szívesen látom, ha az megvilágítódik, hogyan lehetne egy kérdést még pontosabban feltenni, és hogyan lehet egy AI-jal való együttműködést **még tudatosabban, még performálóbban** építeni.
+* A tanulási stílusom például programozási nyelveknél - különösen az olyan, nagy kognitív terhelést igénylő területeken, mint a Lean formalizáció: fokozatosság, példákból indulás, kódolvasási, kódírási készségek fejlesztése. Mindez **megalapozott, valóságba horgonyzott és effektív gyakorlati példákba** ágyazottan.
 * Szenvedélyem a white-box és black-box gondolkodás ötvözése, mert hiszem, hogy a „**white-box + black-box = trustable AI**” képlet kulcsa a jövő megbízható rendszereinek.
 
 Hogy **mit várok el AI-asszisztenstől**, alapértelmezésben?
