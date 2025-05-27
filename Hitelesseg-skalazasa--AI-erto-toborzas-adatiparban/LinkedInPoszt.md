@@ -41,7 +41,7 @@ Nálam ez úgy alapélmény, hogy tisztában vagyok az ambivalens megítélhető
 
 **04. Mi az a három projekt, ötlet vagy vágy, amit évek óta cipelsz magaddal, de még nem kezdted el?**
 
-(1) CTE SQL-alapú, vállalati Master Data Management (mint egyetlen megbízható, konszenzusos igazságforrás)  
+(1) SQL CTE-alapú, vállalati Master Data Management (mint egyetlen megbízható, konszenzusos igazságforrás)  
 (2) Adatvizualizálás algoritmizálása, hogyan lehet automatikusan a legerőteljesebb vizualizációt elkészíteni.  
 (3) Generative-AI modeling projektek, mind külső zárt modellek esetére (pl.ChatGPT), mind nyíltsúlyú modellek esetére (pl.Mistral): a RAG-on túli világ felfedezésére.  
 +1 Kideríteni, publikálni, hogy szerintem hogyan kellene a leggazdaságosabban, leggyorsabban, legnagyobb élvezettel megtanulni angolul, ha a nyelvtudás eszköz és nem cél.
