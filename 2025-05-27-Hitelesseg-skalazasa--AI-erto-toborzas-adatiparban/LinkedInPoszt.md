@@ -1,8 +1,6 @@
 **A hitelesség skálázása; AI-értő toborzás az adatiparban**
 
-Az eredeti célom az alábbi LinkedIn-poszt publikálása volt, amelyben szeretném magamat meginterjúvolni 10+5 db AI által generált kérdés alapján, a fenti cím szellemében.
-
-Az egész dolog kaphatna egy olyan gamifikált keretezést, mintha napjaink mesterséges intelligenciája 10+5 kérdést tenne fel Steve Jobsnak, ha ő ma jelentkezne egy állásra.
+Az eredeti célom az alábbi LinkedIn-poszt publikálása volt, amelyben szeretném magamat meginterjúvolni 10+5 db AI által generált kérdés alapján, a fenti cím szellemében. Az egész dolog kaphatna egy olyan gamifikált keretezést, mintha napjaink mesterséges intelligenciája 10+5 kérdést tenne fel Steve Jobsnak, ha ő ma jelentkezne egy állásra.
 
 **ChatGPT PROMPT:**  
 Te most egy **AI-literate**, következő generációs HR-es vagy egy cégnél, aki **adatipari munkatársat keres** (pl. Data Engineer, Data Scientist stb.).
