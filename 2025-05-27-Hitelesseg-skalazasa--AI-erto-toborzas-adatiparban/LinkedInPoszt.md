@@ -11,7 +11,7 @@ A junior HR-es kör után te, mint HR-es, szeretnél a **továbbjutott 30 jelöl
 
 **Fontos szempontok:**  
 * A cél, hogy az AI segítsen a jelöltek személyes, aktuális feltérképezésében, hasonlóan, mint egy AI-támogatott párkeresésnél ("match").  
-* Nem szabad túlságosan megterhelni a jelölteket, sőt élvezniük kell a kihívást – ezért legyen **15 kérdés**. (Lásd: gamifikáció.)  
+* Nem szabad túlságosan megterhelni a jelölteket, sőt élvezniük kell a kihívást – ezért legyen **10 kérdés**. (Lásd: gamifikáció.)  
 * **A kérdések legyenek nyitottak, reflektívek, önreflexiót és értékrendet feltárók, szituációsak („mi lenne, ha…” típusúak stb.).**  
 * A cél nem az, hogy jó vagy rossz válaszokat adjanak, hanem hogy **személyes, eredeti reakciókat kapjunk**. Ne lehessen AI-val vagy Google-lel felkészülni rájuk.  
 * A kérdések lehetőség szerint strukturáltan legyenek hasonlóak minden jelölt esetében.  
