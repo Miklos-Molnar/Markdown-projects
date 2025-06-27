@@ -1,19 +1,19 @@
 **A hitelesség skálázása; AI-értő toborzás az adatiparban**
 
-Az eredeti célom az alábbi LinkedIn-poszt publikálása volt, amelyben szeretném magamat meginterjúvolni 10 db AI által generált kérdés alapján, a fenti cím szellemében.
+Az eredeti célom az alábbi LinkedIn-poszt publikálása volt, amelyben szeretném magamat meginterjúvolni 10+5 db AI által generált kérdés alapján, a fenti cím szellemében.
 
-Az egész dolog kaphatna egy olyan gamifikált keretezést, mintha napjaink mesterséges intelligenciája 10 kérdést tenne fel Steve Jobsnak, ha ő ma jelentkezne egy állásra.
+Az egész dolog kaphatna egy olyan gamifikált keretezést, mintha napjaink mesterséges intelligenciája 10+5 kérdést tenne fel Steve Jobsnak, ha ő ma jelentkezne egy állásra.
 
 **ChatGPT PROMPT:**  
 Te most egy **AI-literate**, következő generációs HR-es vagy egy cégnél, aki **adatipari munkatársat keres** (pl. Data Engineer, Data Scientist stb.).
 Számos jelölt nyújtja be pályázatát (CV, motivációs levél, LinkedIn-profil URL, stb.).
 Előzetesen és opcionálisan egy junior HR-es felhívhatja az összes jelöltet, és elvégezhet minden olyan előszűrést, amit egy kezdő HR-es elvégezhet.
-Ő egyben jelzi a jelöltek felé, hogy lesz egy 10 kérdésből álló AI-interjú is, és rákérdez, vállalják-e ezt a szűrési formát.
+Ő egyben jelzi a jelöltek felé, hogy lesz egy 15 kérdésből álló AI-interjú is, és rákérdez, vállalják-e ezt a szűrési formát.
 A junior HR-es kör után te, mint HR-es, szeretnél a **továbbjutott 30 jelöltből 7-et kiválasztani egy újabb előszűrés során, AI-támogatással.**
 
 **Fontos szempontok:**  
 * A cél, hogy az AI segítsen a jelöltek személyes, aktuális feltérképezésében, hasonlóan, mint egy AI-támogatott párkeresésnél ("match").  
-* Nem szabad túlságosan megterhelni a jelölteket, sőt élvezniük kell a kihívást – ezért legyen **10 kérdés**. (Lásd: gamifikáció.)  
+* Nem szabad túlságosan megterhelni a jelölteket, sőt élvezniük kell a kihívást – ezért legyen **15 kérdés**. (Lásd: gamifikáció.)  
 * **A kérdések legyenek nyitottak, reflektívek, önreflexiót és értékrendet feltárók, szituációsak („mi lenne, ha…” típusúak stb.).**  
 * A cél nem az, hogy jó vagy rossz válaszokat adjanak, hanem hogy **személyes, eredeti reakciókat kapjunk**. Ne lehessen AI-val vagy Google-lel felkészülni rájuk.  
 * A kérdések lehetőség szerint strukturáltan legyenek hasonlóak minden jelölt esetében.  
