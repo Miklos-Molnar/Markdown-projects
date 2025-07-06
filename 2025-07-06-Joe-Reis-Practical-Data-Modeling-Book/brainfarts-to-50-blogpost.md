@@ -1,4 +1,5 @@
 50.Post: **Just-In-Time Data Modeling**
+https://practicaldatamodeling.substack.com/p/just-in-time-data-modeling
 
 (1) Extension of JITDM with **JIT mental modelling**  
 JIT can be applied not only to data modeling, but also to our thinking. As stated in the post: “focus on doing just enough to solve today's problem” — in the same way, when thinking, we often put together explanatory or decision-supporting mental models “just in time”: we don't always need a complete, definitive map in our heads. In other words, in addition to JITDM, it is also possible to build a clever little mental JITTM=Just In Time Thinking Model.  
