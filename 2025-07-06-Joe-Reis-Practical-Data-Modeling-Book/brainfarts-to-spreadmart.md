@@ -1,5 +1,5 @@
-**Joe Reis: SpreadMart topic**
-https://www.linkedin.com/posts/josephreis_the-health-of-a-data-warehousing-environment-activity-7347397122679328769-PDQk
+**Joe Reis: SpreadMart topic**  
+https://www.linkedin.com/posts/josephreis_the-health-of-a-data-warehousing-environment-activity-7347397122679328769-PDQk  
 
 **PART-1. Data Governance Reloaded: When SQLs Speak and Git Listens**  
 (Subtitle: Channeling Decentralized Knowledge – Starting from How Companies Actually Work)  
