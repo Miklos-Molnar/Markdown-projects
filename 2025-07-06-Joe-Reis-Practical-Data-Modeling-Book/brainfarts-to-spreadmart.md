@@ -17,7 +17,7 @@ But what if the solution isn’t to suppress this fragmentation — but to chann
 What if we accepted the messiness and treated each SQL query, prompt, or dashboard as its own unit of knowledge?  
 And then built a system that doesn’t just store them, but **learns from them**, makes them **searchable**, and allows reuse **without reinvention**?  
 
-It’s not just about building another metadata catalog. The goal is more radical: 
+It’s not just about building another metadata catalog. The goal is more radical:  
 **Make the official system easier and cheaper to use than hacking Excel and hoping it works.**  
 
 **The Matryoshka Principle: Not Conflicting Definitions — Nested Ones**  
@@ -41,7 +41,7 @@ Git as a Company’s Knowledge Backbone
 
 Next step: lock it in.  
 
-The rule? 
+The rule?  
 **“If you want to publish a dashboard, you need to submit your SQL too.”**  
 
 Doesn’t matter where the logic lives — Excel, Looker, a Notion doc, or a prompt. But somewhere, there needs to be a **central git-based repo** where:  
@@ -57,7 +57,7 @@ The Incentive: Don’t Enforce It — Make It Cheaper
 This isn’t about control, punishment, or bureaucratic checklists.  
 The goal is to make using the shared system **faster, easier, and more reliable** than everyone building their own lonely logic.  
 
-And the only real rule might be: 
+And the only real rule might be:  
 **“If we can’t trace it, we don’t use it to make decisions.”**  
 
 That’s not heavy-handed governance.  
@@ -68,8 +68,8 @@ Let people continue working the way they work — just give them a low-friction 
 Not because they’re forced to,  
 but because it’s just plain smarter.  
 
-**OPTIONAL: A friendly layer on top of git: let’s be honest — no one wants to grep JSON**
-Yes, everything goes into git. Prompts, SQLs, definitions, version histories — the whole knowledge base.
+**OPTIONAL: A friendly layer on top of git: let’s be honest — no one wants to grep JSON**  
+Yes, everything goes into git. Prompts, SQLs, definitions, version histories — the whole knowledge base.  
 
 But here’s the thing: most business users don’t want to browse folders or read YAML.  
 What they do want:  
@@ -78,10 +78,10 @@ What they do want:
 * to see visual trees of how definitions nest or differ,  
 * and to ask: “Who else defined this term similarly?”  
 
-That’s why you need a semantic UI on top — call it a “definition explorer,” “logic atlas,” or “curiosity console.”
-Whatever you name it, it’s where the collective intelligence of your company becomes navigable by humans.
-Without that, git is just a cold archive.
-With it, you get a living, breathing map of business meaning.
+That’s why you need a semantic UI on top — call it a “definition explorer,” “logic atlas,” or “curiosity console.”  
+Whatever you name it, it’s where the collective intelligence of your company becomes navigable by humans.  
+Without that, git is just a cold archive.  
+With it, you get a living, breathing map of business meaning.  
 
 
 **PART-2 Metadata, Reloaded: How a Company Can Digest Its Own SQLs**  
