@@ -113,7 +113,7 @@ The real kicker?
 That’s one of the biggest cognitive upgrades pattern-thinking gives us:  
 You stop solving things ad hoc, and start seeing them as part of a reusable toolkit.  
 
-How much of the real-world data modeling game can dbt actually cover in 2025?  
+H**ow much of the real-world data modeling game can dbt actually cover in 2025?**  
 A lot. But let’s break it down honestly:  
 | Use Case Type                        | Coverage in dbt                                     |
 | ------------------------------------ | --------------------------------------------------- |
