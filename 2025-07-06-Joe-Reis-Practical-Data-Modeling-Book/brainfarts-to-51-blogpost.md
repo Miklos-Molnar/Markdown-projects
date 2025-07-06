@@ -1,4 +1,5 @@
 51.Post: **What is Analytical Data Modeling?**
+https://practicaldatamodeling.substack.com/p/what-is-analytical-data-modeling
 
 (1) Analytical processing usually requires **replication**, the (optional) daily closure of OLTP systems & after backup. This results in extra overhead in terms of time and performance. Often, it is not even possible to fit it into a 24-hour day. Especially if any errors occur during the process.
 
