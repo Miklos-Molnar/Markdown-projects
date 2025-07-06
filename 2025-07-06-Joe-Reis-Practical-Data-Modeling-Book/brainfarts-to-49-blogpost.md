@@ -3,12 +3,12 @@
 Let’s start with a little “gap” spotting, shall we? Did I miss it, or does the original article skip over modern event-driven, streaming, distributed database system patterns entirely? People are writing full books on them as we speak. :)  
 
 **What Even Is a Database Pattern?**  
-– Here’s a working definition I find useful:  
-– Data model patterns are reusable schemas — not just technical constructs, but mental templates. They help you recognize and consistently handle recurring data structure problems in a business context.  
-– In other words: the value of a pattern isn’t just in what it does, but in how it teaches you to think.  
-– It’s not about boilerplate code. It’s not some SQL recipe book.  
-– It’s a mental model that creates clarity where things are messy — especially in orgs where data needs are vague and complexity just... oozes.  
-– Let’s put it even shorter: Pattern = Thinking Framework + Structural Shortcut for Recurring Data Pains  
+Here’s a working definition I find useful:  
+Data model patterns are reusable schemas — not just technical constructs, but mental templates. They help you recognize and consistently handle recurring data structure problems in a business context.  
+In other words: the value of a pattern isn’t just in what it does, but in how it teaches you to think.  
+It’s not about boilerplate code. It’s not some SQL recipe book.  
+It’s a mental model that creates clarity where things are messy — especially in orgs where data needs are vague and complexity just... oozes.  
+Let’s put it even shorter: Pattern = Thinking Framework + Structural Shortcut for Recurring Data Pains  
 
 **A Different Kind of Demo**  
 To really grasp what this looks like in the wild, let’s look at a humble example I personally like better than the one in the article. It’s the kind of thing you’ve probably run into a dozen times without ever formalizing it.   
