@@ -1,4 +1,5 @@
 52.Post: **Common Analytical Architectures and Components, Part 1**
+https://practicaldatamodeling.substack.com/p/common-analytical-architectures-and
 
 (1) **WINO** as a zero step and its legitimacy
 - The phenomenon of WINO (=Warehouse In Name Only) is at first sight seductively simple: a quick response to business pressure, and sometimes a realistic zero step. It is not only an unforgivable sin, but at a certain level of organisational maturity it is almost a necessity: until there is a common data asset culture and clear modelling principles, this 'powder' can be the first layer of experiential learning.
