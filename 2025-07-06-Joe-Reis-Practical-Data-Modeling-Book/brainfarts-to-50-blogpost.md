@@ -1,4 +1,4 @@
-50.Post: **Just-In-Time Data Modeling**
+50.Post: **Just-In-Time Data Modeling**  
 https://practicaldatamodeling.substack.com/p/just-in-time-data-modeling
 
 (1) Extension of JITDM with **JIT mental modelling**  
