@@ -1,4 +1,4 @@
-52.Post: **Common Analytical Architectures and Components, Part 1**
+52.Post: **Common Analytical Architectures and Components, Part 1**  
 https://practicaldatamodeling.substack.com/p/common-analytical-architectures-and
 
 (1) **WINO** as a zero step and its legitimacy
