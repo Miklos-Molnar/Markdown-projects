@@ -1,9 +1,9 @@
-**PART 1 – A Gentle Kickoff into the World of Database Patterns**  
+**PART 1 – A Gentle Kickoff into the World of Data Model Patterns**  
 https://practicaldatamodeling.substack.com/p/data-model-patterns  
 
 Let’s start with a little “gap” spotting, shall we? Did I miss it, or does the original article skip over modern event-driven, streaming, distributed database system patterns entirely? People are writing full books on them as we speak. :)  
 
-**What Even Is a Database Pattern?**  
+**What Even Is a Data Model Pattern?**  
 Here’s a working definition I find useful:  
 Data model patterns are reusable schemas — not just technical constructs, but mental templates. They help you recognize and consistently handle recurring data structure problems in a business context.  
 In other words: the value of a pattern isn’t just in what it does, but in how it teaches you to think.  
@@ -93,7 +93,7 @@ A knowledge representation mechanism.
 A way to **encode thinking, not just logic**.  
 
 
-**PART 2 – dbt: The Most Widespread “Database Pattern Delivery System” We Have**  
+**PART 2 – dbt: The Most Widespread “Data Modeling Pattern Delivery System” We Have**  
 
 Let’s call it what it is:  
 dbt isn’t just a transformation tool — it’s arguably the most widely adopted way to implement database patterns in the wild.  
