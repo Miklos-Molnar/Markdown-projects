@@ -96,7 +96,7 @@ A way to **encode thinking, not just logic**.
 **PART 2 – dbt: The Most Widespread “Data Modeling Pattern Delivery System” We Have**  
 
 Let’s call it what it is:  
-dbt isn’t just a transformation tool — it’s arguably the most widely adopted way to implement database patterns in the wild.  
+dbt isn’t just a transformation tool — it’s arguably the most widely adopted way to implement data model patterns in the wild.  
 But first, a fair question:  
 
 **So how many patterns are there in dbt-land?**  
