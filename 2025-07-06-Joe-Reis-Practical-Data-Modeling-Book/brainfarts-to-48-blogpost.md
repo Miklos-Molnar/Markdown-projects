@@ -104,8 +104,8 @@ Only then does it become a **partner**, not a glorified checklist generator.
 * **The Goal Is Not Compliance — It’s Discovery**  
 This is my biggest point.  
 Most checklist tools — human or AI — default to checking boxes:  
-– “Primary key?  
-– Source schema validated?  
+– “Primary key?”  
+– “Source schema validated?”  
 That’s fine. But if it’s not tied to the problem space, it’s just bureaucracy.  
 What really matters:  
 – What are we trying to understand?  
