@@ -1,5 +1,7 @@
-**PART 1 – A Gentle Kickoff into the World of Data Model Patterns**  
+49.Post: Data Model Patterns
 https://practicaldatamodeling.substack.com/p/data-model-patterns  
+
+**PART 1 – A Gentle Kickoff into the World of Data Model Patterns**  
 
 Let’s start with a little “gap” spotting, shall we? Did I miss it, or does the original article skip over modern event-driven, streaming, distributed database system patterns entirely? People are writing full books on them as we speak. :)  
 
