@@ -1,5 +1,5 @@
-49.Post: Data Model Patterns
-https://practicaldatamodeling.substack.com/p/data-model-patterns  
+49.Post: **Data Model Patterns**  
+https://practicaldatamodeling.substack.com/p/data-model-patterns    
 
 **PART 1 – A Gentle Kickoff into the World of Data Model Patterns**  
 
