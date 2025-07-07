@@ -148,7 +148,7 @@ Here’s a rough framework — not for fixing everything, but for *naming the te
 
 ### Key Concepts — With a Twist
 
-| **Concept**              | **Core Question**                         | **Your Contextual Angle**                                             |
+| **Concept**              | **Core Question**                         | **Contextual Angle**                                             |
 |--------------------------|-------------------------------------------|-----------------------------------------------------------------------|
 | *Agile Modeling*         | Adaptivity + focus                        | Mapping thought patterns — not just drawing structure                 |
 | *Scalability*            | Output longevity                          | Can the model's thinking scale with changing questions?               |
