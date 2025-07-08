@@ -1,4 +1,4 @@
-# 46.Post： Are the Levels of Data Modeling Outdated？
+# 46.Post：Are the Levels of Data Modeling Outdated？
 _Is the Three-Level Data Modeling Still Relevant in 2025?_
 
 Let’s get this out of the way: *I don’t believe the three levels of data modeling — conceptual, logical, and physical — are outdated*. What **is outdated**, though, is the *way we talk about them*, *use them*, and *freeze them* in linear workflows. That mindset? Yeah, that can go.
