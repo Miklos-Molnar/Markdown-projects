@@ -1,4 +1,4 @@
-# Practical Data Modeling – Table of Contents  
+# Joe Reis: Practical Data Modeling – Table of Contents  
 _A curated list of all posts from Joe Reis’s Practical Data Modeling Substack_
 
 ---
