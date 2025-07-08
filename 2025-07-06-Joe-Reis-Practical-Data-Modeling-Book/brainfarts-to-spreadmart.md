@@ -178,11 +178,11 @@ And the best part?
 This isn’t theory anymore.  
 It’s buildable. Just differently.  
 
-COMMENT: 
+### COMMENT: 
 "I agree with the concept that we should try to reflect real life in the systems rather than dictate. But not entirely sure of our ability to glean real life from SQLs."
 https://www.linkedin.com/feed/update/urn:li:activity:7347397122679328769?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7347397122679328769%2C7347610121016938496%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A7347397122679328769%2C7348138084850421760%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287347610121016938496%2Curn%3Ali%3Aactivity%3A7347397122679328769%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287348138084850421760%2Curn%3Ali%3Aactivity%3A7347397122679328769%29
 
-MY ANSWER:
+### MY ANSWER:
 **Totally valid concern** — I struggle with it too. The goal isn’t to treat SQL as “the truth,” but to see it as the clearest trace of how someone *thought* about a business concept.  
 Read enough of them, and patterns start to form — and that’s where interpretation begins.
 
