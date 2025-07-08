@@ -3,7 +3,7 @@ _A curated list of all posts & urls from Joe Reis’s Practical Data Modeling Su
 
 ---
 
-## [MM's brainfarts for Joe's book]
+## [Thinking Out Loud with Joe’s Book]
 
 ---
 
