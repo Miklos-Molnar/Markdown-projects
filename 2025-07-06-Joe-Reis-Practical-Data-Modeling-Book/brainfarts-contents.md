@@ -93,8 +93,8 @@ _A curated list of all posts & urls from Joe Reis’s Practical Data Modeling Su
 
 43.[Levels of Data Modeling]  
 44.[The Traditional Levels of Data Modeling]  
-45.[Example - Building a Traditional Data Model]  
-46.[Are the Levels of Data Modeling Outdated?]  
+45.[Example - Building a Traditional Data Model](https://github.com/Miklos-Molnar/Markdown-projects/blob/main/2025-07-06-Joe-Reis-Practical-Data-Modeling-Book/brainfarts-to-45-blogpost.md)  
+46.[Are the Levels of Data Modeling Outdated?](https://github.com/Miklos-Molnar/Markdown-projects/blob/main/2025-07-06-Joe-Reis-Practical-Data-Modeling-Book/brainfarts-to-46-blogpost.md)  
 
 ---
 
