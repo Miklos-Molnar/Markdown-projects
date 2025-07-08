@@ -177,3 +177,45 @@ we get a system that can **learn from itself**.
 And the best part?  
 This isn’t theory anymore.  
 It’s buildable. Just differently.  
+
+COMMENT: 
+"I agree with the concept that we should try to reflect real life in the systems rather than dictate. But not entirely sure of our ability to glean real life from SQLs."
+https://www.linkedin.com/feed/update/urn:li:activity:7347397122679328769?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7347397122679328769%2C7347610121016938496%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A7347397122679328769%2C7348138084850421760%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287347610121016938496%2Curn%3Ali%3Aactivity%3A7347397122679328769%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287348138084850421760%2Curn%3Ali%3Aactivity%3A7347397122679328769%29
+
+MY ANSWER:
+**Totally valid concern** — I struggle with it too. The goal isn’t to treat SQL as “the truth,” but to see it as the clearest trace of how someone *thought* about a business concept.  
+Read enough of them, and patterns start to form — and that’s where interpretation begins.
+
+Here are a few ideas to make SQL reverse-engineering less painful (without diving into side-effects):
+
+### 1. AI-based intent extraction  
+Modern models can already extract rough business logic from SQL.  
+This helps surface implicit mental models (like how `active_customer` varies by context) and transitions tacit knowledge into structured insight.
+
+### 2. AI-assisted SQL parsing (e.g. via ANTLR)  
+A robust, syntax-aware approach that works standalone or paired with AI.  
+Great for extracting joins, filters, and entities as metadata anchors.
+
+### 3. Governance-focused SQL linting  
+Live feedback while writing — not just post-mortem.  
+Helps promote consistency (e.g. required aliases, no `SELECT *`), improves traceability, and reinforces team-wide patterns.
+
+*Would love to hear what’s worked for others here too.*
+
+---
+
+### What would I recommend as SQL writing standards at the company level?
+
+**Goal:** As few hard constraints as possible, and as many soft incentives and built-in support mechanisms as we can.
+
+**Suggested practices and expectations:**
+- Every SQL should start with a short goal comment (e.g., `-- Goal: identify high-value churn-risk customers`)
+- Avoid `SELECT *` — always list fields explicitly
+- Use aliases for all tables and fields — but skip meaningless ones like `a`, `b`, `t1`
+- Write joins and filters in a structured way — use `JOIN ... ON`, not implicit joins via `WHERE`
+- Support metadata tagging — via inline comments or annotations (e.g., `-- @segment: customer_segment_level_3`)
+- **SQL version ID:** each query should have a unique identifier, linkable to dashboards or prompts
+- **Lint tool integration:** give writers live feedback while editing — not as a blocker, but as helpful guidance
+
+> The goal is clarity, reusability, and better downstream traceability — without killing creativity.
+
