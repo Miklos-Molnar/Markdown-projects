@@ -510,7 +510,7 @@ Honestly, this feels **more relevant than ever in 2025** — because we’re no 
 
 ---
 
-### 📉 Possible CDM Structural / Pattern-Based Mistakes
+### Possible CDM Structural / Pattern-Based Mistakes
 _(with a 1–9 impact score, where 9 = nightmare cost if detected late)_
 
 ---
