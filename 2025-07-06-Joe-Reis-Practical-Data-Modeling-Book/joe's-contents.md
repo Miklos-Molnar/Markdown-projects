@@ -1,5 +1,5 @@
 # Joe Reis: Practical Data Modeling – Table of Contents  
-_A curated list of all posts from Joe Reis’s Practical Data Modeling Substack_
+_A curated list of all posts & urls from Joe Reis’s Practical Data Modeling Substack_
 
 ---
 
