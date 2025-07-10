@@ -102,3 +102,4 @@ _A curated list of all posts & urls from Joe Reis’s Practical Data Modeling Su
 50.[Just-In-Time Data Modeling](https://practicaldatamodeling.substack.com/p/just-in-time-data-modeling)  
 51.[What is Analytical Data Modeling?](https://practicaldatamodeling.substack.com/p/what-is-analytical-data-modeling)  
 52.[Common Analytical Architectures and Components, Part 1](https://practicaldatamodeling.substack.com/p/common-analytical-architectures-and)  
+53.[Common Analytical Architectures and Components, Part 2](https://practicaldatamodeling.substack.com/p/common-analytical-architectures-and-1ad)  
