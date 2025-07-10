@@ -5,7 +5,7 @@ _A curated list of all posts & urls from Joe Reis’s Practical Data Modeling Su
 
 ## [Thinking Out Loud with Joe’s Book]
 
-A satirical take on what the trilogy could look like if it were co-written by a slightly overcaffeinated modeler.
+A satirical take on what the trilogy could look like if it were co-written by a slightly overcaffeinated modeler.  
 [Joe Reis’s Practical Data Modeling – The Annotated, Opinionated, Unofficial, and Possibly Unreadable TOC.](https://github.com/Miklos-Molnar/Markdown-projects/blob/main/2025-07-06-Joe-Reis-Practical-Data-Modeling-Book/A-Song-of-Data-and-Modeling-Contents.md)
 
 ---
