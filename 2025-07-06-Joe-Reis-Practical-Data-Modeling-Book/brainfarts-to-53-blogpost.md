@@ -1,3 +1,7 @@
+# 53.Post：*Common Analytical Architectures and Components, Part 2*
+**(Contemporary Architecture Patterns)**  
+→ [Original Joe Reis post](https://practicaldatamodeling.substack.com/p/common-analytical-architectures-and-1ad)
+
 # Part 1: The Real Stakes in the Architecture vs. Data Modeling Debate
 
 > **TL;DR:**
