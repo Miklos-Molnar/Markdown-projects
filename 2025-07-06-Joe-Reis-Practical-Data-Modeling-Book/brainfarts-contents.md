@@ -105,7 +105,8 @@ _A curated list of all posts & urls from Joe Reis’s Practical Data Modeling Su
 49.[Data Model Patterns](https://github.com/Miklos-Molnar/Markdown-projects/blob/main/2025-07-06-Joe-Reis-Practical-Data-Modeling-Book/brainfarts-to-49-blogpost.md)  
 50.[Just-In-Time Data Modeling](https://github.com/Miklos-Molnar/Markdown-projects/blob/main/2025-07-06-Joe-Reis-Practical-Data-Modeling-Book/brainfarts-to-50-blogpost.md)  
 51.[What is Analytical Data Modeling?](https://github.com/Miklos-Molnar/Markdown-projects/blob/main/2025-07-06-Joe-Reis-Practical-Data-Modeling-Book/brainfarts-to-51-blogpost.md)  
-52.[Common Analytical Architectures and Components, Part 1](https://github.com/Miklos-Molnar/Markdown-projects/blob/main/2025-07-06-Joe-Reis-Practical-Data-Modeling-Book/brainfarts-to-52-blogpost.md)  
+52.[Common Analytical Architectures and Components, Part 1](https://github.com/Miklos-Molnar/Markdown-projects/blob/main/2025-07-06-Joe-Reis-Practical-Data-Modeling-Book/brainfarts-to-52-blogpost.md) 
+53.[Common Analytical Architectures and Components, Part 2](https://github.com/Miklos-Molnar/Markdown-projects/blob/main/2025-07-06-Joe-Reis-Practical-Data-Modeling-Book/brainfarts-to-53-blogpost.md) 
 
 ---
 
