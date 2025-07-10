@@ -520,8 +520,6 @@ This one's a spicy topic. When it comes to OLAP/MOLAP, we’re in a **liminal zo
 * No schema-on-read, poor data fluidity
 * AI, ad hoc querying, fuzzy questions? Nope. Not friends.
 
----
-
 ### 2. Because it’s *not born for distributed systems*
 
 * Not cloud-native
@@ -860,7 +858,6 @@ But if we zoom out and ask what modeling *really* is, we’ll find:
 * **Interpretive modeling** can preserve relationships *without needing SQL JOINs*
 * The new modeling toolkit? → **Semantic logic, enrichment flows, cache-based injection, and AI-enabled joins**
 
----
 ---
 
 ## (11) Feedback-Aware & Persona-Driven / Use-Case Modeling
