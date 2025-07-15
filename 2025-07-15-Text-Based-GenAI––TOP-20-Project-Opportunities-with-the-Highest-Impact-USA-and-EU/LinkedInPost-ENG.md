@@ -57,26 +57,26 @@ GenAI Approaches – Short Explanations
 
 |   No. | Project Type                                                                   | Description (structured)                                                                                                                                                                                          |
 |------:|:-------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     1 | Extracting, normalizing, and mapping processes, rules, and requirements from documents, interviews, and specifications. Input: semi-structured text, output: standardized requirement model or BPMN-like diagram. |
-|     2 | Explaining operational logic based on Readmes, configs, and tickets. Resolving contradictions and connecting documents. Main goal: knowledge restructuring.                                                       |
-|     3 | Breaking down product ideas and meeting notes into technical tasks (Epics/Features/User Stories). Focus: scope slicing and decomposition of complex requirements.                                                 |
-|     4 | Reconstructing business logic, rules, and interfaces from legacy source code and observed behavior. AI tasks: reverse mapping, segmentation, relation discovery.                                                  |
-|     5 | Generating endpoints, UI, or data models from predefined specifications. Typical domain: web applications, admin tools.                                                                                           |
-|     6 | The AI describes how data flows through the pipeline, details transformation steps, and interprets data quality rules. Domain: data engineering.          |
-|     7 | The AI automatically identifies logical branches in the code and generates corresponding test cases. It attempts to 'understand' what needs to be tested. |
-|     8 | Based on Terraform, GitHub Actions, Jenkinsfiles, the AI generates natural language summaries, visual workflow diagrams, and diagnostics.                 |
-|     9 | The AI monitors the organization’s coding guidelines and automatically detects violations from Git commit content.                                        |
-|    10 | The AI compares the high-level system design with the active backlog and highlights mismatches between strategic intent and execution.                    |
-|    11 | AI acts as a Q&A tutor for new developers, offering code explanations and pointing to the right documentation or internal concepts.              |
-|    12 | The AI identifies outdated packages, risky dependencies, and refactoring needs from changelogs and diffs. It suggests safe upgrade paths.        |
-|    13 | The AI explains regulatory constraints in the context of different technical roles: dev, PM, architect. Key: simplification and personalization. |
-|    14 | GenAI translates base-language UI strings and flags stylistic inconsistencies or terminology mismatches across languages or screens.             |
-|    15 | AI groups similar tickets, detects duplicates, and scores business/technical priority. Goal: eliminate waste and improve focus.                  |
-|    16 | The AI tracks how prompts evolve through experiments, logging their effect and building a reproducible optimization history. Ideal for LLM engineers. |
-|    17 | The model interprets business terms and definitions and hypothesizes entities and their relationships in a structured conceptual model.               |
-|    18 | AI pre-drafts a response to IT tenders, based on similar past proposals. Also flags any major information gaps or inconsistencies.                    |
-|    19 | The AI adds pull request comments based on diffs, checking for style violations and structural changes. Ideal for speeding up reviews.                |
-|    20 | The AI identifies root causes, improvement opportunities, and hidden dependencies in retrospectives, then summarizes them for follow-up.              |
+|     1 | Describing business processes and integrating into systems (Business Analysis) | Extracting, normalizing, and mapping processes, rules, and requirements from documents, interviews, and specifications. Input: semi-structured text, output: standardized requirement model or BPMN-like diagram. |
+|     2 | Rewriting and interpreting internal documentation (DevOps, Operations)         | Explaining operational logic based on Readmes, configs, and tickets. Resolving contradictions and connecting documents. Main goal: knowledge restructuring.                                                       |
+|     3 | Transforming business needs into technical backlog (System Analysis)           | Breaking down product ideas and meeting notes into technical tasks (Epics/Features/User Stories). Focus: scope slicing and decomposition of complex requirements.                                                 |
+|     4 | Legacy system reverse engineering (in absence of documentation)                | Reconstructing business logic, rules, and interfaces from legacy source code and observed behavior. AI tasks: reverse mapping, segmentation, relation discovery.                                                  |
+|     5 | Code generation from structured specification (low-code AI)                    | Generating endpoints, UI, or data models from predefined specifications. Typical domain: web applications, admin tools.                                                                                           |
+|     6 | Documenting and auditing data cleaning pipelines                 | The AI describes how data flows through the pipeline, details transformation steps, and interprets data quality rules. Domain: data engineering.          |
+|     7 | Generating unit and integration tests from existing code         | The AI automatically identifies logical branches in the code and generates corresponding test cases. It attempts to 'understand' what needs to be tested. |
+|     8 | Explaining Infrastructure-as-Code and CI/CD pipelines            | Based on Terraform, GitHub Actions, Jenkinsfiles, the AI generates natural language summaries, visual workflow diagrams, and diagnostics.                 |
+|     9 | AI-based enforcement of coding policies, linters, and guidelines | The AI monitors the organization’s coding guidelines and automatically detects violations from Git commit content.                                        |
+|    10 | Aligning strategic architecture with the feature backlog         | The AI compares the high-level system design with the active backlog and highlights mismatches between strategic intent and execution.                    |
+|    11 | Onboarding and system knowledge support for new developers       | AI acts as a Q&A tutor for new developers, offering code explanations and pointing to the right documentation or internal concepts.              |
+|    12 | Automatic preparation of maintenance tasks (refactoring, update) | The AI identifies outdated packages, risky dependencies, and refactoring needs from changelogs and diffs. It suggests safe upgrade paths.        |
+|    13 | Explaining data privacy and compliance rules (GDPR, HIPAA)       | The AI explains regulatory constraints in the context of different technical roles: dev, PM, architect. Key: simplification and personalization. |
+|    14 | Multilingual UI/UX text generation and consistency checking      | GenAI translates base-language UI strings and flags stylistic inconsistencies or terminology mismatches across languages or screens.             |
+|    15 | Ticket, bug, and backlog analysis and prioritization             | AI groups similar tickets, detects duplicates, and scores business/technical priority. Goal: eliminate waste and improve focus.                  |
+|    16 | Prompt engineering and creation of a documented LLM pipeline       | The AI tracks how prompts evolve through experiments, logging their effect and building a reproducible optimization history. Ideal for LLM engineers. |
+|    17 | AI-assisted data modeling (conceptual/logical)                     | The model interprets business terms and definitions and hypothesizes entities and their relationships in a structured conceptual model.               |
+|    18 | AI-assisted RFP / proposal drafting for IT companies               | AI pre-drafts a response to IT tenders, based on similar past proposals. Also flags any major information gaps or inconsistencies.                    |
+|    19 | Code review AI assistant (Pull Request feedback)                   | The AI adds pull request comments based on diffs, checking for style violations and structural changes. Ideal for speeding up reviews.                |
+|    20 | Project retrospective summarization and lessons learned generation | The AI identifies root causes, improvement opportunities, and hidden dependencies in retrospectives, then summarizes them for follow-up.              |
 
 * * *
 
