@@ -1,6 +1,6 @@
 # Ideális AI-fejlesztői munkafolyamatok – Felülnézeti áttekintés
 
-Sajnálom, de az élet gyorsabb volt nálam — a korábbi posztom néhány óra alatt elavult. Ez itt a frissített, kibővített verzió.
+Sajnálom, de az élet gyorsabb volt nálam — a korábbi posztom néhány óra alatt elavult. Ez itt a **frissített, kibővített verzió**.
 
 Ez a cikk egy **idealizált** fejlesztői munkafolyamat-készletet mutat be, amely az **AI-val támogatott szoftverfejlesztés**-re épül. A mellékelt (angol nyelvű) táblázat minden sora egy koherens és ellentmondásmentes AI-funkcionalitás- és fejlesztői attitűd-kombinációt képvisel.
 
