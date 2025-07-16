@@ -49,6 +49,8 @@ This is particularly powerful during debugging, onboarding, or reverse engineeri
 It replaces hours of manual searching with semantic lookup. 
 Its effectiveness depends on context window size, but also the reasoning power of the LLM.
 
+![AI Workflow Overview](workflow_overview.png)
+
 | Workflow Name                            | Description                                                                          | Input Type                                  | Context Requirement                     | AI Capabilities                                       | Cumulative Value                                   | Platform                  | Typical Tools                    | Strength                                | Limitation                                 |
 |:-----------------------------------------|:-------------------------------------------------------------------------------------|:--------------------------------------------|:----------------------------------------|:------------------------------------------------------|:---------------------------------------------------|:--------------------------|:---------------------------------|:----------------------------------------|:-------------------------------------------|
 | Zero-to-MVP Bootstrapping                | Start from a high-level prompt or UI mockup to generate a full app or prototype.     | Prompt / Screenshot / Natural language spec | 32K+ context or agent memory            | UI-to-code, full-stack generation, routing setup      | Rapid prototyping, consistency, time-to-first-demo | Web UI / VSCode plugin    | v0.dev, Smol Developer, Uizard   | Speed from idea to deployable prototype | Not production-grade without manual review |
