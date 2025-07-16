@@ -1,13 +1,12 @@
-# Ideális AI-fejlesztői munkafolyamatok – Felülnézeti áttekintés
+# Ideális AI-fejlesztői munkafolyamatok – Felülnézeti áttekintés  
 
-Sajnálom, de az élet gyorsabb volt nálam — a korábbi posztom néhány óra alatt elavult. Ez itt a **frissített, kibővített verzió**.
+Sajnálom, de az élet gyorsabb volt nálam — a korábbi posztom néhány óra alatt elavult. Ez itt a **frissített, kibővített verzió**.  
 
-Ez a cikk egy **idealizált** fejlesztői munkafolyamat-készletet mutat be, amely az **AI-val támogatott szoftverfejlesztés**-re épül. A mellékelt (angol nyelvű) táblázat minden sora egy koherens és ellentmondásmentes AI-funkcionalitás- és fejlesztői attitűd-kombinációt képvisel.
+Ez a cikk egy **idealizált** fejlesztői munkafolyamat-készletet mutat be, amely az **AI-val támogatott szoftverfejlesztés**-re épül. A mellékelt (angol nyelvű) táblázat minden sora egy koherens és ellentmondásmentes AI-funkcionalitás- és fejlesztői attitűd-kombinációt képvisel.  
 
-Ezek a munkafolyamatok nem egy-egy konkrét termék vagy IDE funkciói. Valójában ma nincs olyan eszköz, amely teljes mértékben lefedné az összes felsorolt szempontot. Ugyanakkor minden szereplő funkció és gyakorlat már legalább egy létező termékben **implementálva** van.
+Ezek a munkafolyamatok nem egy-egy konkrét termék vagy IDE funkciói. Valójában ma nincs olyan eszköz, amely teljes mértékben lefedné az összes felsorolt szempontot. Ugyanakkor minden szereplő funkció és gyakorlat már legalább egy létező termékben **implementálva** van.  
 
-A cél, hogy a mérnökcsapatok, eszközfejlesztők és AI-stratégák jobban átlássák a generatív modellekkel támogatott szoftverfejlesztés **gyakorlati határait és lehetőségeit** – az ötlettől a tesztelésen át a karbantartásig.
-
+A cél, hogy a mérnökcsapatok, eszközfejlesztők és AI-stratégák jobban átlássák a generatív modellekkel támogatott szoftverfejlesztés **gyakorlati határait és lehetőségeit** – az ötlettől a tesztelésen át a karbantartásig.  
 
 ## Zero-to-MVP Bootstrapping
 Ez a munkafolyamat egy termékötlet első szikrájára fókuszál. Nincs még kód, az AI egy működő MVP-t (=Minimum Viable Product) generál egy leírás vagy akár egy UI screenshot alapján. Ide tartozik a felhasználói felület elrendezése, API-vázlatok és egyszerű adatmodellek létrehozása. A v0.dev és a Smol Developer jó példák erre. A hangsúly a sebességen és az átláthatóságon van, nem a gyártási minőségen. Alkalmas olyan alapítók vagy designerek számára, akik gyorsan akarnak koncepciót validálni kódolás nélkül. Fő erőssége, hogy az ötlet és a bemutatható prototípus közötti időt közel nullára csökkenti.
