@@ -45,6 +45,7 @@ Career Opportunity / Job Ad at Salesforce: Senior/Lead/Principal Data Engineer J
 https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Lead-Principal-Data-Engineer_JR304107
 
 * * * 
+
 PART-02 -- **Terminology** translation: _Traditional_ → _Old Fashion_ → _Legacy_ → _Future DE_
 ==============================================================================================
 
@@ -69,6 +70,7 @@ Because any change in philosophy will only be sustainable if it does not critici
 The next step is to clarify whether AI will render Data Engineering obsolete. I believe this is a **misconception**, which I will attempt to refute.
 
 * * * 
+
 PART-03 -- **Misconception: "AI has replaced data engineering."**
 ==================================================================
 
@@ -229,6 +231,7 @@ The true DE philosophy is here:
 Irina's team **does not build a reportable past**, but **nurtures a thinking future**.  
 
 * * *
+
 PART-05 -- 1+8 Niche opportunities for Future DE
 ================================================
 
@@ -414,6 +417,7 @@ This is an integrated table that contains both the "traditional/legacy" and "fut
 | 20 | Pipeline goal: output generation | Pipeline goal: behavior and decision template generation for AI *(Niche: Human–Agent Alignment Commentator)* | 🔴 High (10) | The biggest risk: bad templates lead to functional AI learning, but with completely distorted behavior. |
 
 * * * 
+
 PART-07 -- Types of AI hazards – thematic breakdown
 =========================================================
 
@@ -495,6 +499,7 @@ The priority is also indicated visually:
 | → (d) Allow alternative perspectives to be entered into the training sets (e.g., human comments alongside logs) | Enriches learning. | Add comment fields to inputs. |
 
 * * * 	
+
 PART-09 -- AI Risk Mitigation Roadmap – Condensed Version
 ===========================================================================
 
@@ -536,6 +541,7 @@ This version removes redundancies, standardizes terminology, assigns numbers to 
 This template can also be used during review and compliance meetings.
 
 * * *
+
 PART-10 -- Can all this be called Data Engineering philosophy?** — Indeed, **exactly that**
 =========================================================================================
 
@@ -570,22 +576,23 @@ The DE of the future will not only "engineer" data, but also **meaning, conseque
 So: **it is philosophy in every sense of the word. And it points in the right direction.**  
 
 * * * 
-PART-11 -- AI–DE Alignment filozófiai záró gondolatok
+
+PART-11 -- AI–DE Alignment philosophical closing thoughts
 =====================================================
 
-A jövő Data Engineerének szerepe már nem csupán abból áll, hogy adatcsöveket épít, vagy „mozgatja az adatot”. A jövő DE-je **értelmez, kontextualizál, priorizál, visszacsatol** – és egyre inkább része az értelmező intelligencia ökoszisztémájának, nem csak a kiszolgáló infrastruktúrának.
+The role of the future Data Engineer will no longer consist solely of building data pipelines or "moving data." The DE of the future will **interpret, contextualize, prioritize, and provide feedback** — and will increasingly be part of the interpretive intelligence ecosystem, not just the server infrastructure.
 
-Az AI megjelenése első pillantásra fenyegetésnek tűnhet: mintha kiváltaná a manuális munkát, döntéshozatalt, sőt, még a modellezést is. De a mélyebb rétegekben nem kiváltásról, hanem **együttműködésről és szerepbővülésről** van szó.
+At first glance, the emergence of AI may seem threatening: as if it were replacing manual work, decision-making, and even modeling. But at a deeper level, it is not about replacement, but **collaboration and role expansion**.
 
-Az AI új minőséget követel a Data Engineer munkájától:
-*   nemcsak _hogyan_, hanem _miért_ alapon kell gondolkodnia,
-*   nemcsak _előkészítenie_, hanem _tanítania_ is kell az AI-rendszereket,
-*   és nemcsak _rendszereket_ szolgál, hanem **emberi és gépi gondolkodás közötti hidat** épít.
+AI demands a new quality from the work of data engineers:
+*  they must think not only in terms of _how_, but also _why_,
+*  they must not only _prepare_ AI systems, but also _teach_ them,
+*  and they must not only serve _systems_, but also build a **bridge between human and machine thinking**.
 
-🔸 **Miért fontos ez a gondolat?**  
-Mert ez ad keretet és identitást az egész dokumentumnak. Amit eddig írtunk, nem egy egyszerű technikai lista, hanem egy **új jövőkép**, amelyben a Data Engineer nem tűnik el, hanem **még fontosabbá válik** – csak máshogy. Az AI nem elveszi, hanem _átalakítja_ a DE szerepét: kiteljesíti azok számára, akik hajlandók újragondolni, tanulni, és vezetni a változást.
+🔸 **Why is this idea important?**  
+Because it provides a framework and identity for the entire document. What we have written so far is not a simple technical list, but a **new vision** in which the Data Engineer does not disappear, but **becomes even more important** – just in a different way. AI does not take away the role of the DE, but rather _transforms_ it: it fulfills those who are willing to rethink, learn, and lead change.
 
 * * * 
 
-Let’s rethink Data Engineering together.
+Let's rethink data engineering together!
 #FutureOfData #HumanInTheLoop #NarrativeModeling #AIandHumans
