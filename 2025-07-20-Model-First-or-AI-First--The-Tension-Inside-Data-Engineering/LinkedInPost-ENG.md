@@ -35,14 +35,14 @@ as well as Irina Malkova for her inspiring post, which provided a deep vision of
 and, of course, Salesforce for their job posting, which offered not only a position but also a philosophy.
 This joyful intellectual journey helped me think through the real future of Data Engineering.
 
-Joe Reis:
-https://www.linkedin.com/posts/josephreis_seniorleadprincipal-data-engineer-activity-7351706202717777921-6dIW/
+Joe Reis:  
+https://www.linkedin.com/posts/josephreis_seniorleadprincipal-data-engineer-activity-7351706202717777921-6dIW/  
 
-Irina Malkova:
-https://www.linkedin.com/posts/irina-malkova-292221b_seniorleadprincipal-data-engineer-activity-7351700978611429378-aJfq/
+Irina Malkova:  
+https://www.linkedin.com/posts/irina-malkova-292221b_seniorleadprincipal-data-engineer-activity-7351700978611429378-aJfq/  
 
-Career Opportunity / Job Ad at Salesforce: Senior/Lead/Principal Data Engineer JOB
-https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Lead-Principal-Data-Engineer_JR304107
+Career Opportunity / Job Ad at Salesforce: Senior/Lead/Principal Data Engineer JOB  
+https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Lead-Principal-Data-Engineer_JR304107  
 
 * * * 
 PART-02 -- **Terminology** translation: _Traditional_ → _Old Fashion_ → _Legacy_ → _Future DE_
