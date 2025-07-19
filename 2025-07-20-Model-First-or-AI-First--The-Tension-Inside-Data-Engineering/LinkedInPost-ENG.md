@@ -229,8 +229,8 @@ The true DE philosophy is here:
 Irina's team **does not build a reportable past**, but **nurtures a thinking future**.  
 
 * * *
-05–PART-05 -- 1+8 Niche opportunities for Future DE.md
-=====================================================
+PART-05 -- 1+8 Niche opportunities for Future DE
+================================================
 
 ## **1.Niche (strongest): "CDM-LDM-PDM grounding for semantic pipelines"**
 
