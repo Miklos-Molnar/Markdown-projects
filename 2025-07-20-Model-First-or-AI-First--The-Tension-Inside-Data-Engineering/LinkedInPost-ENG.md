@@ -35,14 +35,14 @@ as well as Irina Malkova for her inspiring post, which provided a deep vision of
 and, of course, Salesforce for their job posting, which offered not only a position but also a philosophy.
 This joyful intellectual journey helped me think through the real future of Data Engineering.
 
-Joe Reis:  
-https://www.linkedin.com/posts/josephreis_seniorleadprincipal-data-engineer-activity-7351706202717777921-6dIW/  
+Joe Reis:
+https://www.linkedin.com/posts/josephreis_seniorleadprincipal-data-engineer-activity-7351706202717777921-6dIW/
 
-Irina Malkova:  
-https://www.linkedin.com/posts/irina-malkova-292221b_seniorleadprincipal-data-engineer-activity-7351700978611429378-aJfq/  
+Irina Malkova:
+https://www.linkedin.com/posts/irina-malkova-292221b_seniorleadprincipal-data-engineer-activity-7351700978611429378-aJfq/
 
-Career Opportunity / Job Ad at Salesforce: Senior/Lead/Principal Data Engineer JOB  
-https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Lead-Principal-Data-Engineer_JR304107  
+Career Opportunity / Job Ad at Salesforce: Senior/Lead/Principal Data Engineer JOB
+https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Lead-Principal-Data-Engineer_JR304107
 
 * * * 
 PART-02 -- **Terminology** translation: _Traditional_ → _Old Fashion_ → _Legacy_ → _Future DE_
@@ -130,8 +130,8 @@ The goal: to empathize with and understand Irina's Salesforce job ad as accurate
 
 **ATTENTION:** The following is a **reconstruction** based on **facts**, but at the same time coherently cloaked in **imagination**, with the right to error reserved.  
 
-**Irináék's Data Engineering Philosophy — and the World Behind It**
--------------- ----------------------------------------------------
+**Irina and her team’s Data Engineering philosophy — and the World Behind It**
+------------------------------------------------------------------------------
 
 ### 1\. **"Engineering for reasoning, not reporting" — what does this mean?**  
 
@@ -215,7 +215,7 @@ Imagine the following:
 * * *
 
 **Conclusion: What could be Irina's team's true Data Engineering philosophy?**  
----------------------- ------------------------------------------------------ -
+------------------------------------------------------------------------------
 
 > **Data is not a goal, but a language. It is not a tool for analysis, but a breeding ground for artificial thinking.**
 
@@ -418,7 +418,7 @@ PART-07 -- Types of AI hazards – thematic breakdown
 =========================================================
 
 | Risk Topic | Brief Description | Related Steps (Serial Number) | Why is it critical? |
-| --- | --- | --- | -- - |
+| --- | --- | --- | --- |
 | 🧠 Semantic/meaning distortion error | AI misunderstands meaning, goals, metrics, or logical relationships. | 3, 4, 8, 14, 16, 19 | These errors can distort not only individual decisions, but the entire learning process. |
 | 🔁 Feedback loop and learning distortion | The system relearns its own errors because the feedback is distorted, incomplete, or not validated. | 5, 9, 13, 20 | These errors "hardwire" bad behavior in the long run — they are difficult to correct. |
 | 🔍 Logical/inference slippage | The knowledge or rule system related to reasoning is flawed, redundant, or overly complex. | 1, 6, 10, 15 | AI not only learns poorly, but also thinks poorly or draws incorrect conclusions. |
@@ -427,8 +427,8 @@ PART-07 -- Types of AI hazards – thematic breakdown
 
 * * *
 
-📌 Summary
------------ --
+Summary
+-------
 
 | Risk Topic | How many steps does it affect? | Typical severity |
 | --- | --- | --- |
@@ -501,7 +501,7 @@ PART-09 -- AI Risk Mitigation Roadmap – Condensed Version
 This version removes redundancies, standardizes terminology, assigns numbers to steps, and labels action types with emojis for easier overview.
 
 | # | Phase & Task | Why is it important? | Action type |
-|----|----------------|--------------- -|----------------|
+|----|----------------|-------------------|-------------|
 | 1 | **Audit AI-specific semantic layers (concepts, metrics, relations)** | These are the logical foundations of AI reasoning—distortions in them lead to misleading decisions. | 🧪 Audit |
 | 2 | **Create a Semantic Drift Register** | Helps track changes in the interpretation of concepts over time. | 🧪 Audit |
 | 3 | **Introduce narrative validation for models** | AI does not understand goals, only structures – intent representation is necessary. | 🧭 Alignment |
@@ -520,7 +520,7 @@ This version removes redundancies, standardizes terminology, assigns numbers to 
 
 ---
 
-## 🗂️ Legend
+## Legend
 
 - 🧪 Audit = Verification and quality assurance
 - 🛡 Validation = Human feedback
