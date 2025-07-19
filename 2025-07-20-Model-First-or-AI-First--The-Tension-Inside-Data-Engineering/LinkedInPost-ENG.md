@@ -594,5 +594,5 @@ Because it provides a framework and identity for the entire document. What we ha
 
 * * * 
 
-Let's rethink data engineering together!
-#FutureOfData #HumanInTheLoop #NarrativeModeling #AIandHumans
+Let's rethink data engineering together!  
+#FutureOfData #HumanInTheLoop #NarrativeModeling #AIandHumans  
