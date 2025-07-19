@@ -49,7 +49,7 @@ https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---
 PART-02 -- **Terminológiai** átvezetés: _Hagyományos_ → _Old Fashion_ → _Legacy_ → _Future DE_
 ==============================================================================================
 
-Hogyan nevezze az ember a hagyományod Data Engineeringet. Old fashion? Én éreznék ebben némi pejoratív mellékízt. Ezért maradnék a **Legacy Data Engineering**-nél
+Hogyan nevezze az ember a hagyományos Data Engineeringet. Old fashion? Én éreznék ebben némi pejoratív mellékízt. Ezért maradnék a **Legacy Data Engineering**-nél
 *   **Semleges vagy pozitív felhang**: A „legacy” szó az IT világban sokszor jelent megbízhó, bevált, jól működő régi rendszereket – nem feltétlenül elavultat.
 *   **Nem bántó**: Nem degradálja a múltat, inkább kontextusba helyezi: _„a korábban uralkodó megközelítés”_.
 *   **Jelzi az evolúciót**: Azt sugallja, hogy volt egy stabil alap, amiből valami új nőtt ki.
