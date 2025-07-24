@@ -1,4 +1,4 @@
-The Thinking Machine Enters the Ring (AtCoder x IMO x AGI)
+# The Thinking Machine Enters the Ring (AtCoder x IMO x AGI)
 
 ## **Part 00** – Confession and Recommendation
 
