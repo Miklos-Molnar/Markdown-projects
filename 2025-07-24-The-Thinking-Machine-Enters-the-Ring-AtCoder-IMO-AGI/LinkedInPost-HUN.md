@@ -1100,7 +1100,7 @@ _Precíz számot_ nem tudhatunk Psyho gépéről, **jó közelítéssel** meg le
 * A Psyho-féle versenyzés nem egy nagy, hosszú kód megírása — inkább olyan, mint egy **heurisztikus patch-sorozat**, amit _profilozás_ és _meta-tesztelés_ irányít.
 
 
-## **Part 19** – IMO, International Mathematical Olympiad 2025?
+## **Part 19** – IMO, International Mathematical Olympiad 2025
 
 > **TL;DR:** Elgondolkodtató záró, lekerekítő fináléhoz bevesszük az IMO versenyt is, legalább pár gondolat erejéig.
 
