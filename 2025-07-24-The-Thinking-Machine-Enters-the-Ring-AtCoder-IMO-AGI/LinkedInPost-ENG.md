@@ -1116,15 +1116,15 @@ We can’t know an _exact number_ for what Psyho had on their machine — but we
 
 ### **IMO Gold Medals**
 
-* **Google DeepMind** – officially recognized with a **gold medal**. The Gemini Deep Think model solved 5 out of 6 problems, scoring 35/42 points. The IMO organizers validated the result. [LessWrong](https://www.lesswrong.com/posts/RcBqeJ8GHM2LygQK3/openai-claims-imo-gold-medal?utm_source=chatgpt.com) [Reuters](https://www.reuters.com/world/asia-pacific/google-clinches-milestone-gold-global-math-competition-while-openai-also-claims-2025-07-21/?utm_source=chatgpt.com).
+* **Google DeepMind** – officially recognized with a **gold medal**. The Gemini Deep Think model solved 5 out of 6 problems, scoring 35/42 points. The IMO organizers validated the result. [LessWrong](https://www.lesswrong.com/posts/RcBqeJ8GHM2LygQK3/openai-claims-imo-gold-medal) [Reuters](https://www.reuters.com/world/asia-pacific/google-clinches-milestone-gold-global-math-competition-while-openai-also-claims-2025-07-21/).
 
-* **OpenAI** – also scored 35 points but **did not officially enter** the contest. Independent IMO medalists assessed the result. [Reuters](https://www.reuters.com/world/asia-pacific/google-openais-ai-models-win-milestone-gold-at-global-math-competition-2025-07-21/?utm_source=chatgpt.com)
+* **OpenAI** – also scored 35 points but **did not officially enter** the contest. Independent IMO medalists assessed the result. [Reuters](https://www.reuters.com/world/asia-pacific/google-openais-ai-models-win-milestone-gold-at-global-math-competition-2025-07-21/)
 
-* Both models solved the tasks in **natural language**, **without using Lean or any formal proof language**. [Hacker News](https://news.ycombinator.com/item?id=44637191&utm_source=chatgpt.com)
+* Both models solved the tasks in **natural language**, **without using Lean or any formal proof language**. [Hacker News](https://news.ycombinator.com/item?id=44637191)
 
 ### **What happened technically at OpenAI?**
 
-* **Maximizing CoT chains**: “test-time compute scaling,” parallel reasoning paths, multiple iterations, and a metaconsensus strategy — all aiming for more structured and less brittle chains of thought. [Reuters + LessWrong](https://www.reuters.com/world/asia-pacific/google-clinches-milestone-gold-global-math-competition-while-openai-also-claims-2025-07-21/?utm_source=chatgpt.com)
+* **Maximizing CoT chains**: “test-time compute scaling,” parallel reasoning paths, multiple iterations, and a metaconsensus strategy — all aiming for more structured and less brittle chains of thought. [Reuters + LessWrong](https://www.reuters.com/world/asia-pacific/google-clinches-milestone-gold-global-math-competition-while-openai-also-claims-2025-07-21/)
 
 * This made **natural language problem-solving** possible with a more advanced reasoning model behind it.
 
@@ -1169,7 +1169,7 @@ A summary of Gemini/DeepMind’s (DeepThink) technical strategy for IMO 2025 —
 
 ### **AtCoder and Programming**
 
-* The 2025 **AtCoder Heuristic Finals** were a major milestone: a human programmer (Psyho) actually **defeated an OpenAI model**, although the model **still reached second place** [Google DeepMind](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/?utm_source=chatgpt.com) [Ars Technica+7thetimes.co.uk+7pcgamer.com+7](https://www.thetimes.co.uk/article/human-programmer-beats-ai-model-coding-psyho-3qv070q2w?utm_source=chatgpt.com).
+* The 2025 **AtCoder Heuristic Finals** were a major milestone: a human programmer (Psyho) actually **defeated an OpenAI model**, although the model **still reached second place** [Google DeepMind](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) [Ars Technica+7thetimes.co.uk+7pcgamer.com+7](https://www.thetimes.co.uk/article/human-programmer-beats-ai-model-coding-psyho-3qv070q2w).
 
 * This shows that **AI models excel more in programming** (thanks to LLM-compatible patterns) than in tasks like chess or the IMO, where **lookahead-based, stateful reasoning** is required.
 
