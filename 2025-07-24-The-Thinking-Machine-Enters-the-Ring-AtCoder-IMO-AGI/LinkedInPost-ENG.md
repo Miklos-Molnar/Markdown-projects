@@ -1112,7 +1112,7 @@ We can’t know an _exact number_ for what Psyho had on their machine — but we
 * Psyho-style competing isn’t about writing one big, long codebase — it’s more like a **heuristic patchwork**, guided by _profiling_ and _meta-testing_.
 
 
-## **Part 19** – IMO, International Mathematical Olympiad 2025?
+## **Part 19** – IMO, International Mathematical Olympiad 2025
 
 > **TL;DR:** For a thoughtful, rounded closing, let’s bring in the IMO contest too — even if just for a few reflections.
 
