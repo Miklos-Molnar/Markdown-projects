@@ -1194,7 +1194,8 @@ A summary of Gemini/DeepMind’s (DeepThink) technical strategy for IMO 2025 —
 * ✅ **DeepMind**: officially validated IMO gold medalist.  
 * ✅ **OpenAI**: IMO gold-worthy, but unofficial.  
 * ✅ Both: **solutions written in fluent English**, **no Lean used**.  
-* ✅ **OpenAI**: new techniques for deeper CoT chains and toxicity prevention.  
+* ✅ **OpenAI**: new techniques for deeper CoT chains and toxicity prevention.
+* ✅ **DeepMind / Gemini (DeepThink)**: Implicit world-model planning, model-based search, sketch-level planning, self-consistency tuning, dynamic coherence.
 * ✅ IMO corpus ≈ 398 problems → **thinking is a must, memorization won’t cut it**.  
 * ✅ **FAQ**: general LLMs in 2025 are **breathing down the necks** of the best humans (IMO, AtCoder), sometimes tied.  
 * ✅ **AGI**: technically here, but unpublished; it’s all about speed, not disclosure.  
