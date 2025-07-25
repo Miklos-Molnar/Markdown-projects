@@ -926,11 +926,10 @@ Azt, hogy Psyho:
 *   Egy séf tudja, mikor jó a tészta állaga – **nem recept alapján**, hanem **tapasztalati érzékkel**.  
 
 ### **Miért fontos az AI kapcsán?**  
-*   A jelenlegi AI-modellek **többnyire explicit példákon tanulnak**.  
-*   A tacit tudás **nem példákban van jelen**, hanem **folyamatos kontextusban, finom észlelésekben és visszacsatolásokban**.  
-*   Egy AI akkor lép szintet, ha képes lesz **internalizálni** ezeket a **nem szabályalapú mintázatokat is**.  
-
-*   **Psyho győzelme részben abból fakadt, hogy az ő "tacit tudása" meghaladta az AI explicit heurisztikáit.**  
+* A jelenlegi AI-modellek **többnyire explicit példákon tanulnak**.  
+* A tacit tudás **nem példákban van jelen**, hanem **folyamatos kontextusban, finom észlelésekben és visszacsatolásokban**.  
+* Egy AI akkor lép szintet, ha képes lesz **internalizálni** ezeket a **nem szabályalapú mintázatokat is**.  
+* **Psyho győzelme részben abból fakadt, hogy az ő "tacit tudása" meghaladta az AI explicit heurisztikáit.**  
 
 ### **TL;DR – Tacit tudás rövid összegzése**  
 *   Emberi tapasztalat és intuíció, amit nehéz formalizálni.  
