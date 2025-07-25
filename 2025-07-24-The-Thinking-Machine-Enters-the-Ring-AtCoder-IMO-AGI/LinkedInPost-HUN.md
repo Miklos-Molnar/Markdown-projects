@@ -1179,7 +1179,7 @@ _Precíz számot_ nem tudhatunk Psyho gépéről, **jó közelítéssel** meg le
     
 * Fontos ugyanakkor látni, hogy ezek az áttörések továbbra is úgy születnek, hogy az LLM-ek nem „érzékelik a világot” – azaz **grounding továbbra sincs**. A modellek **nem látnak, nem érzékelnek, nem cselekszenek a fizikai térben**, és **a fogalmaik sem lehorgonyzottak valós világ-interakcióban**, csak **szöveges logikai következményekben élnek**. Ez **az AGI fogalmától (mint „testes intelligencia”) még elválasztja őket** – bármennyire is erősek már matematikában vagy programozásban.
 
-### **TL;DR**
+### **TL;DR** Összefoglaló
 
 * ✅ **DeepMind**: validált IMO-aranyérmes.
 * ✅ **OpenAI**: IMO-aranyétel, de nem hivatalos.
