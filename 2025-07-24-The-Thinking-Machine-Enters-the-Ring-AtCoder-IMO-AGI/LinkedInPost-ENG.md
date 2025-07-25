@@ -945,14 +945,12 @@ It shows that Psyho:
 *   Current AI models learn mostly from **explicit examples**.
 *   Tacit knowledge doesn’t come in examples—it’s found in **continuous context, subtle perception, and feedback loops**.
 *   AI will only truly level up once it can **internalize** these **non-rule-based patterns**.
-
 *   **Psyho’s victory was partly due to tacit knowledge that went beyond the AI’s explicit heuristics.**
 
-### **TL;DR – Quick summary**
-* **Tacit knowledge**:
-   *   Human experience and intuition that’s hard to formalize.
-   *   A key ingredient in Psyho’s win.
-   *   AI might learn it someday—but _we’re still at the doorstep_ of reliable imitation.
+### **TL;DR – Tacit knowledge-Quick summary**
+*   Human experience and intuition that’s hard to formalize.
+*   A key ingredient in Psyho’s win.
+*   AI might learn it someday—but _we’re still at the doorstep_ of reliable imitation.
 
 ### **Comparison matrix**
 
