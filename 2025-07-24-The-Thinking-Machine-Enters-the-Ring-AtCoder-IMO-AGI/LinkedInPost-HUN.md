@@ -1,5 +1,17 @@
 # A gondolkodó gép színre lép (AtCoder × IMO × AGI)
 
+#### **Alternatív címek:**
+* Mi van, ha az AGI már tudja? (2025, AtCoder, IMO)
+* A prompt és a bizonyítás között
+* 2025: Promptolj és hódíts
+* Gondolkodtam tehát promptoltam
+* A jelentés hibakeresése
+* Az AGI, amelyik nem mondja ki a nevét
+* Alvó modellek, ébredő elmék
+
+**A néma réteg (Szemantika × Következtetés × AGI)**
+Én csak „a néma rétegnek” hívom. A modelljeinknek azt a részét, ami nem hangos, mint a kód, és nem gyors, mint a GPU — de mégis magában hordozza az általános következtetés kulcsát: a szemantikát. És nem pusztán a szemantikát önmagában — hanem a szemantikát, ami a következtetést szolgálja. Nevezd, ahogy akarod — itt kezd a jelentés suttogás helyett gondolkodni.
+
 ## **Part 00** – Beismerés és ajánlás
 
 > **TL;DR:**  
