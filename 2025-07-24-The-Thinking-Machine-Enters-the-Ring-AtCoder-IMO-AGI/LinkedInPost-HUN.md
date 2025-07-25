@@ -1187,7 +1187,7 @@ _Precíz számot_ nem tudhatunk Psyho gépéről, **jó közelítéssel** meg le
 * ✅ **DeepMind / Gemini (DeepThink)**: Implicit world-model planning, sketch-level planning, self-consistency tuning, dinamikus koherencia
 * ✅ **OpenAI**: új technikák a CoT lánc mélyítésére, mérgeződés ellen.
 * ✅ IMO-korpusz ≈ 398 feladat → **muszáj gondolkodni, nem elég memorizálni**.
-* ✅ **GYIK**: általános LLM-ek 2025-ben reálisan a _legjobbak nyakában loholnak_ (IMO, AtCoder), gyakran halottversenyben.
+* ✅ **GYIK**: általános LLM-ek 2025-ben reálisan a _legjobbak nyakában loholnak_ (IMO, AtCoder), gyakran holtversenyben.
 * ✅ **AGI**: technikai értelemben megvan, de nem publikálják; a cél a fejlesztés sebessége, nem a megosztás.
 * ✅ **Grounding továbbra sincs** – ezek a rendszerek _szöveg-alapú következtetők_, nem _világban gyökerező intelligenciák_.
 
