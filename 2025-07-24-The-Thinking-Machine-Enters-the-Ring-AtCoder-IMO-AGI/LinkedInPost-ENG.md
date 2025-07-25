@@ -1101,7 +1101,7 @@ We can’t know an _exact number_ for what Psyho had on their machine — but we
 | Typical problem-specific code (e.g., main.py) | 5–10 KB |
 | Iterative versions (not deleted) | 10–30 KB |
 | Temporary / unused experiments | 10–15 KB |
-| Total new code during contest | ~20–40 KB Python code |
+| Total new code during contest | ~20–40 KB |
 
 ### Altogether, in Psyho’s folder:
 
