@@ -1184,7 +1184,7 @@ _Precíz számot_ nem tudhatunk Psyho gépéről, **jó közelítéssel** meg le
 * ✅ **DeepMind**: validált IMO-aranyérmes.
 * ✅ **OpenAI**: IMO-aranyétel, de nem hivatalos.
 * ✅ Mindkettő: **angol nyelvű megoldás** natív szöveggel, **semmi Lean**.
-* ✅ **DeepMind / Gemini (DeepThink)**: Implicit világmodell-alapú tervezés, sketch-level planning, self-consistency tuning, dinamikus koherencia
+* ✅ **DeepMind / Gemini (DeepThink)**: Implicit world-model planning, sketch-level planning, self-consistency tuning, dinamikus koherencia
 * ✅ **OpenAI**: új technikák a CoT lánc mélyítésére, mérgeződés ellen.
 * ✅ IMO-korpusz ≈ 398 feladat → **muszáj gondolkodni, nem elég memorizálni**.
 * ✅ **GYIK**: általános LLM-ek 2025-ben reálisan a _legjobbak nyakában loholnak_ (IMO, AtCoder), gyakran halottversenyben.
