@@ -1101,7 +1101,7 @@ We can’t know an _exact number_ for what Psyho had on their machine — but we
 | Typical problem-specific code (e.g., main.py) | 5–10 KB |
 | Iterative versions (not deleted) | 10–30 KB |
 | Temporary / unused experiments | 10–15 KB |
-| Total new code during contest | ~20–40 KB |
+| Total new code during contest | ~20–40 KB Python code |
 
 ### Altogether, in Psyho’s folder:
 
@@ -1156,7 +1156,7 @@ A summary of Gemini/DeepMind’s (DeepThink) technical strategy for IMO 2025 —
 ### Summary:
 
 | Model | Method | Core Strength | Analogy |
-|    
+|-------|--------|---------------|---------|
 | OpenAI (GPT-4+) | CoT + metaconsensus | Structured reasoning, iterative corrections | “Playing chess move by move” |
 | DeepMind (Gemini / DeepThink) | Implicit world model + internal planning | Intuitive discovery, planned insight | “A geometry experiment imagined in the mind” |
 
