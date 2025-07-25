@@ -8,7 +8,6 @@
 * Debugging Meaning
 * The AGI That Won’t Say Its Name
 * Sleeping Models, Waking Minds
-* Between the Prompt and the Proof
 
 The Silent Layer (Semantic × Reasoning x AGI): I call it the Silent Layer. That part of our models that isn’t loud like code or fast like GPU — but holds the key to general reasoning: semantics. Call it what you want — this is where semantics stops whispering and starts thinking.
 
