@@ -1103,16 +1103,16 @@ _Precíz számot_ nem tudhatunk Psyho gépéről, **jó közelítéssel** meg le
 
 ### **IMO-aranyérmek**
 
-* **Google DeepMind** – **hivatalosan elismert aranyérmet szerzett**, a Gemini Deep Think modell 5/6 feladatot oldott meg 35/42 ponttal, és az IMO szervezői validálták [LessWrong](https://www.lesswrong.com/posts/RcBqeJ8GHM2LygQK3/openai-claims-imo-gold-medal?utm_source=chatgpt.com)[Reuters+6Reuters+6Google DeepMind+6](https://www.reuters.com/world/asia-pacific/google-clinches-milestone-gold-global-math-competition-while-openai-also-claims-2025-07-21/?utm_source=chatgpt.com).
+* **Google DeepMind** – **hivatalosan elismert aranyérmet szerzett**, a Gemini Deep Think modell 5/6 feladatot oldott meg 35/42 ponttal, és az IMO szervezői validálták [LessWrong](https://www.lesswrong.com/posts/RcBqeJ8GHM2LygQK3/openai-claims-imo-gold-medal)[Reuters+6Reuters+6Google DeepMind+6](https://www.reuters.com/world/asia-pacific/google-clinches-milestone-gold-global-math-competition-while-openai-also-claims-2025-07-21/).
     
-* **OpenAI** – szintén 35 pontot ért el, de **nem formálisan nevezte be** a versenyre; független IMO-éremesek értékelték [Reuters](https://www.reuters.com/world/asia-pacific/google-clinches-milestone-gold-global-math-competition-while-openai-also-claims-2025-07-21/?utm_source=chatgpt.com)[Reuters](https://www.reuters.com/world/asia-pacific/google-openais-ai-models-win-milestone-gold-at-global-math-competition-2025-07-21/?utm_source=chatgpt.com).
+* **OpenAI** – szintén 35 pontot ért el, de **nem formálisan nevezte be** a versenyre; független IMO-éremesek értékelték [Reuters](https://www.reuters.com/world/asia-pacific/google-clinches-milestone-gold-global-math-competition-while-openai-also-claims-2025-07-21/)[Reuters](https://www.reuters.com/world/asia-pacific/google-openais-ai-models-win-milestone-gold-at-global-math-competition-2025-07-21/).
     
-* Mindkét modell **természetes nyelven oldotta meg** a feladatokat, **Lean vagy más formális nyelv nélkül** [Hacker News](https://news.ycombinator.com/item?id=44637191&utm_source=chatgpt.com).
+* Mindkét modell **természetes nyelven oldotta meg** a feladatokat, **Lean vagy más formális nyelv nélkül** [Hacker News](https://news.ycombinator.com/item?id=44637191).
     
 
 ### **Mi történt technikailag az OpenAI-nál?**
 
-* **CoT lánc maximalizálása**: "test-time compute scaling", párhuzamos reasoning-pályák, több iteráció és metakonszenzus használata — mindez strukturáltabb, kevésbé mérgezett érvelésért [Reuters+1LessWrong+1](https://www.reuters.com/world/asia-pacific/google-clinches-milestone-gold-global-math-competition-while-openai-also-claims-2025-07-21/?utm_source=chatgpt.com).
+* **CoT lánc maximalizálása**: "test-time compute scaling", párhuzamos reasoning-pályák, több iteráció és metakonszenzus használata — mindez strukturáltabb, kevésbé mérgezett érvelésért [Reuters+1LessWrong+1](https://www.reuters.com/world/asia-pacific/google-clinches-milestone-gold-global-math-competition-while-openai-also-claims-2025-07-21/).
     
 * Ez lehetővé tette a **természetes nyelvű problémamegoldást**, magasabb szintű reasoning-modellezéssel.
 
@@ -1158,7 +1158,7 @@ _Precíz számot_ nem tudhatunk Psyho gépéről, **jó közelítéssel** meg le
     
 ### **AtCoder és programozás**
 
-* A 2025-ös **AtCoder Heuristic Finals** is jelentős mérföldkő volt: **egy emberi programozó (Psyho) győzött** egy OpenAI modell ellen, amely viszont **második helyig jutott** [Google DeepMind](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/?utm_source=chatgpt.com)[Ars Technica+7thetimes.co.uk+7pcgamer.com+7](https://www.thetimes.co.uk/article/human-programmer-beats-ai-model-coding-psyho-3qv070q2w?utm_source=chatgpt.com).
+* A 2025-ös **AtCoder Heuristic Finals** is jelentős mérföldkő volt: **egy emberi programozó (Psyho) győzött** egy OpenAI modell ellen, amely viszont **második helyig jutott** [Google DeepMind](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)[Ars Technica+7thetimes.co.uk+7pcgamer.com+7](https://www.thetimes.co.uk/article/human-programmer-beats-ai-model-coding-psyho-3qv070q2w).
     
 * Ez rámutat, hogy **a programozásban (LLM-kompatibilis minták által) jobban teljesítenek az AI-k**, mint olyan feladatokban, mint a sakk vagy IMO, ahol **belátó, állapot-alapú reasoning kell**.
 
