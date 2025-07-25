@@ -909,35 +909,33 @@ Azt, hogy Psyho:
 
 
 
-## **Part 16** – Mi az a tacit tudás
+## **Part 16** – Mi az a tacit tudás?
 
 > **TL;DR:** A versenytörténet fényében megértjük, mi az a "hallgatólagos tudás": olyan szakmai rutin, amelyet nehéz verbalizálni, és amit az AI csak közvetve tud tanulni – de épp ebben rejlik a mostani emberi fölény.
 
 * **Tacit tudás** (magyarul: **hallgatólagos tudás**) olyan **nem formalizált, gyakran tudattalanul használt tudás**, amit az ember **gyakorlat során szerez**, és **nehéz szavakba vagy szabályokba önteni**.
 
-### **Jellemzők**
-*   Nem tanítják explicit módon → **nem könyvből tanulható**.
-*   Nehezen programozható vagy verbalizálható → **intuíció, tapasztalat** alapján működik.
-*   Gyakran **csak akkor tudatosul**, ha megkérdezik: „Miért így csinálod?”
+### **Jellemzők**  
+*   Nem tanítják explicit módon → **nem könyvből tanulható**.  
+*   Nehezen programozható vagy verbalizálható → **intuíció, tapasztalat** alapján működik.  
+*   Gyakran **csak akkor tudatosul**, ha megkérdezik: „Miért így csinálod?”  
 
-### **Példák**
-*   Egy tapasztalt programozó „érzi”, mikor lesz egy megoldás lassú – még mielőtt lemérné.
-*   Egy versenyző tudja, hogy bizonyos típusú seed-ekre érdemes fallback stratégiát írni – de ezt nem tanította senki.
-*   Egy séf tudja, mikor jó a tészta állaga – **nem recept alapján**, hanem **tapasztalati érzékkel**.
+### **Példák**  
+*   Egy tapasztalt programozó „érzi”, mikor lesz egy megoldás lassú – még mielőtt lemérné.  
+*   Egy versenyző tudja, hogy bizonyos típusú seed-ekre érdemes fallback stratégiát írni – de ezt nem tanította senki.  
+*   Egy séf tudja, mikor jó a tészta állaga – **nem recept alapján**, hanem **tapasztalati érzékkel**.  
 
-### **Miért fontos az AI kapcsán?**
-*   A jelenlegi AI-modellek **többnyire explicit példákon tanulnak**.
-*   A tacit tudás **nem példákban van jelen**, hanem **folyamatos kontextusban, finom észlelésekben és visszacsatolásokban**.
-*   Egy AI akkor lép szintet, ha képes lesz **internalizálni** ezeket a **nem szabályalapú mintázatokat is**.
+### **Miért fontos az AI kapcsán?**  
+*   A jelenlegi AI-modellek **többnyire explicit példákon tanulnak**.  
+*   A tacit tudás **nem példákban van jelen**, hanem **folyamatos kontextusban, finom észlelésekben és visszacsatolásokban**.  
+*   Egy AI akkor lép szintet, ha képes lesz **internalizálni** ezeket a **nem szabályalapú mintázatokat is**.  
 
-*   **Psyho győzelme részben abból fakadt, hogy az ő "tacit tudása" meghaladta az AI explicit heurisztikáit.**
+*   **Psyho győzelme részben abból fakadt, hogy az ő "tacit tudása" meghaladta az AI explicit heurisztikáit.**  
 
-### **TL;DR – Rövid összegzés**
-* **Tacit tudás**:
-   *   Emberi tapasztalat és intuíció, amit nehéz formalizálni.
-   *   Psyho győzelmének kulcseleme.
-   *   AI-modellek tanulhatják, de _jelenleg még csak küszöbén állunk_ a megbízható utánzásnak.
-
+### **TL;DR – Tacit tudás rövid összegzése**  
+*   Emberi tapasztalat és intuíció, amit nehéz formalizálni.  
+*   Psyho győzelmének kulcseleme.  
+*   AI-modellek tanulhatják, de _jelenleg még csak küszöbén állunk_ a megbízható utánzásnak.  
 
 ### **Összehasonlító mátrix**
 
