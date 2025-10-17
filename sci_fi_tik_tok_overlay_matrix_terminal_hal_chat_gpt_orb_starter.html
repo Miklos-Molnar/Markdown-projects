@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sci‑Fi TikTok Overlay</title>
+  <style>
+    /* === 9:16 base canvas === */
+    :root {
+      --w: 1080;  /* width px */
+      --h: 1920;  /* height px */
+      --term-bg: rgba(0, 0, 0, 0.55);
+      --term-fg: #9efc8e;
+      --term-accent: #00ff9c;
+      --scanline: rgba(0, 255, 100, 0.08);
+      --orb-glow: #00e0ff;
+    }
+    html, body {
+      margin: 0; height: 100%; background: #000; overflow: hidden;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    }
+    /* Fit 1080x1920 inside any window while preserving 9:16 */
+    .stage-wrap {
+      position: fixed; inset: 0; display: grid; place-items: center;
+      background: #000;
+    }
+    .stage {
+      width: min(100vw, calc(100vh * 9/16));
+      height: calc(min(100vw, calc(100vh * 9/16)) * 16/9);
+      position: relative; 
+      box-shadow: 0 0 40px rgba(0,255,150,0.2) inset;
+      overflow: hidden;
+      background: #000;
+    }
+
+    /* Matrix rain canvas sits at the bottom */
+    #matrix {
+      position: absolute; inset: 0; width: 100%; height: 100%; display: block;
+      filter: contrast(1.15) saturate(1.2);
+    }
+
+    /* Subtle scanlines */
+    .scanlines::after {
+      content: ""; position: absolute; inset: 0; pointer-events: none;
+      background: repeating-linear-gradient(
+        to bottom,
+        transparent 0px, transparent 2px,
+        var(--scanline) 2px, var(--scanline) 3px
+      );
+      mix-blend-mode: screen;
+    }
+
+    /* Terminal window */
+    .terminal {
+      position: absolute; left: 5%; right: 5%; bottom: 6%; 
+      max-height: 48%;
+      background: var(--term-bg);
+      border: 1px solid #0a3; 
+      border-radius: 14px;
+      padding: 18px 20px 24px;
+      color: var(--term-fg);
+      overflow: hidden; backdrop-filter: blur(2px);
+      box-shadow: 0 8px 30px rgba(0,255,150,0.08), 0 0 80px rgba(0,255,150,0.05) inset;
+    }
+    .term-title {
+      font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.8;
+      margin-bottom: 10px; color: var(--term-accent);
+    }
+    .term-body { 
+      font-size: clamp(14px, 2.2vw, 22px); line-height: 1.55; white-space: pre-wrap; 
+      height: 100%; overflow: auto; scrollbar-width: thin;
+    }
+
+    /* HAL/ChatGPT orb */
+    .orb {
+      position: absolute; top: 6%; left: 50%; transform: translateX(-50%);
+      width: min(42vw, 420px); aspect-ratio: 1/1; border-radius: 50%;
+      display: grid; place-items: center; 
+      filter: drop-shadow(0 0 25px rgba(0, 224, 255, 0.55));
+      isolation: isolate;
+    }
+    .orb-core {
+      position: relative; width: 100%; height: 100%; border-radius: 50%;
+      background: radial-gradient(circle at 50% 50%, rgba(255,255,255,0.95) 0%, rgba(0,224,255,0.85) 22%, rgba(0,110,140,0.6) 55%, rgba(0,0,0,0.9) 70%);
+      box-shadow:
+        0 0 60px rgba(0,224,255,0.35) inset,
+        0 0 180px rgba(0,224,255,0.25) inset,
+        0 0 120px rgba(0,224,255,0.35);
+      overflow: hidden;
+      animation: orbPulse 2.6s ease-in-out infinite;
+    }
+    .orb-ring {
+      position: absolute; inset: -5%; border-radius: 50%;
+      background: conic-gradient(from 0deg, rgba(0,255,200,0.0), rgba(0,255,200,0.35), rgba(0,255,200,0.0) 25%);
+      filter: blur(8px); opacity: 0.65; animation: ringSpin 6s linear infinite;
+      mix-blend-mode: screen;
+    }
+    .orb-center {
+      position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
+      width: 18%; aspect-ratio: 1; border-radius: 50%;
+      background: radial-gradient(circle at 50% 50%, #fff 0%, #ff3b3b 42%, #a00000 70%, rgba(0,0,0,0.9) 85%);
+      box-shadow: 0 0 20px rgba(255, 60, 60, 0.85), 0 0 70px rgba(255, 60, 60, 0.45);
+    }
+    @keyframes ringSpin { to { transform: rotate(360deg); } }
+    @keyframes orbPulse {
+      0%, 100% { transform: scale(0.985); filter: drop-shadow(0 0 20px rgba(0,224,255,0.45)); }
+      50% { transform: scale(1.02); filter: drop-shadow(0 0 40px rgba(0,224,255,0.75)); }
+    }
+
+    /* Fake cursor */
+    .cursor { display: inline-block; width: 0.65ch; background: var(--term-accent); animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    /* HUD garnish */
+    .hud {
+      position: absolute; inset: 0; pointer-events: none; mix-blend-mode: screen;
+    }
+    .hud .corner {
+      position: absolute; width: 84px; height: 84px; border: 2px solid rgba(0,255,200,0.35);
+      filter: blur(0.2px) drop-shadow(0 0 8px rgba(0,255,150,0.25));
+    }
+    .hud .tl { left: 18px; top: 18px; border-right: none; border-bottom: none; border-radius: 12px 0 0 0; }
+    .hud .tr { right: 18px; top: 18px; border-left: none; border-bottom: none; border-radius: 0 12px 0 0; }
+    .hud .bl { left: 18px; bottom: 18px; border-right: none; border-top: none; border-radius: 0 0 0 12px; }
+    .hud .br { right: 18px; bottom: 18px; border-left: none; border-top: none; border-radius: 0 0 12px 0; }
+  </style>
+</head>
+<body>
+  <div class="stage-wrap">
+    <div class="stage scanlines">
+      <canvas id="matrix"></canvas>
+
+      <div class="orb" id="orb">
+        <div class="orb-core"></div>
+        <div class="orb-ring"></div>
+        <div class="orb-center"></div>
+      </div>
+
+      <section class="terminal" id="terminal">
+        <div class="term-title">/dev/hc-ai — live transcript</div>
+        <div class="term-body" id="termBody"></div>
+      </section>
+
+      <div class="hud">
+        <div class="corner tl"></div>
+        <div class="corner tr"></div>
+        <div class="corner bl"></div>
+        <div class="corner br"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // ==== MATRIX RAIN ========================================================
+    const canvas = document.getElementById('matrix');
+    const ctx = canvas.getContext('2d');
+    let w, h, columns, drops, glyphs;
+
+    function resize() {
+      const rect = canvas.parentElement.getBoundingClientRect();
+      w = canvas.width = Math.floor(rect.width * window.devicePixelRatio);
+      h = canvas.height = Math.floor(rect.height * window.devicePixelRatio);
+      ctx.setTransform(1,0,0,1,0,0);
+      ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
+      const fontSize = Math.max(12, Math.floor(rect.width / 40));
+      ctx.font = `${fontSize}px monospace`;
+      columns = Math.floor(rect.width / (fontSize * 0.8));
+      drops = Array(columns).fill(0).map(() => Math.floor(Math.random() * rect.height));
+      glyphs = 'アイウエオカキクケコｱｲｳｴｵ01lI\/[]{}()*#@$%&+≡≠<>'.split('');
+    }
+    resize();
+    window.addEventListener('resize', resize);
+
+    function step() {
+      const rect = canvas.parentElement.getBoundingClientRect();
+      ctx.fillStyle = 'rgba(0, 0, 0, 0.08)';
+      ctx.fillRect(0, 0, rect.width, rect.height);
+      for (let i = 0; i < columns; i++) {
+        const x = i * (ctx.measureText('M').width * 0.8);
+        const y = drops[i] * (parseInt(ctx.font) * 1.05);
+        const ch = glyphs[Math.floor(Math.random() * glyphs.length)];
+        ctx.fillStyle = `hsl(${120 + Math.random()*30}, 100%, ${40 + Math.random()*30}%)`;
+        ctx.fillText(ch, x, y);
+        if (y > rect.height && Math.random() > 0.982) drops[i] = 0; else drops[i]++;
+      }
+      requestAnimationFrame(step);
+    }
+    requestAnimationFrame(step);
+
+    // ==== TERMINAL TYPEWRITER ===============================================
+    const termBody = document.getElementById('termBody');
+    let cursor; let typingQueue = [];
+    function ensureCursor() {
+      if (!cursor) {
+        cursor = document.createElement('span');
+        cursor.className = 'cursor';
+        cursor.textContent = ' ';
+        termBody.appendChild(cursor);
+      }
+    }
+    function typeText(text, cps = 40) { // characters per second
+      ensureCursor();
+      return new Promise(resolve => {
+        let i = 0; const dt = 1000 / cps;
+        const tick = () => {
+          if (i < text.length) {
+            cursor.insertAdjacentText('beforebegin', text[i++]);
+            termBody.scrollTop = termBody.scrollHeight;
+            setTimeout(tick, dt);
+          } else { resolve(); }
+        };
+        tick();
+      });
+    }
+    function newLine() {
+      cursor.insertAdjacentHTML('beforebegin', '\n');
+    }
+
+    // Demo script (replace with live transcript)
+    (async () => {
+      await typeText('> INIT HC‑AI DISPLAY PIPELINE'); newLine();
+      await typeText('> modules: [matrix_bg, terminal, orb]\n');
+      await typeText('> status: ONLINE'); newLine();
+      await typeText('> listening…'); newLine();
+    })();
+
+    // ==== ORB AUDIO REACTIVITY (optional microphone) ========================
+    // Requests mic, then modulates orb pulse speed/scale by volume.
+    const orb = document.getElementById('orb');
+    async function enableMicReactiveOrb() {
+      try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+        const src = audioCtx.createMediaStreamSource(stream);
+        const analyser = audioCtx.createAnalyser();
+        analyser.fftSize = 512; src.connect(analyser);
+        const data = new Uint8Array(analyser.frequencyBinCount);
+        const base = 1, gain = 0.08;
+        const loop = () => {
+          analyser.getByteTimeDomainData(data);
+          // RMS amplitude
+          let sum = 0; for (let i=0;i<data.length;i++){ const v=(data[i]-128)/128; sum += v*v; }
+          const rms = Math.sqrt(sum / data.length);
+          const scale = base + rms * gain * 10;
+          orb.style.transform = `translateX(-50%) scale(${scale.toFixed(3)})`;
+          requestAnimationFrame(loop);
+        };
+        loop();
+      } catch (e) {
+        console.warn('Mic access declined — orb will use default animation.');
+      }
+    }
+    // Uncomment to enable mic-reactivity by default:
+    // enableMicReactiveOrb();
+
+    // ==== PUBLIC API HOOKS ==================================================
+    // window.hcai.append(text, cps?) — append text live (e.g., from Whisper)
+    // window.hcai.line() — newline
+    window.hcai = {
+      append: (t, cps) => typeText(String(t), cps || 44),
+      line: () => newLine(),
+      mic: () => enableMicReactiveOrb()
+    };
+  </script>
+</body>
+</html>
